@@ -19,13 +19,13 @@ redirect_from:
 
 # 👋 About me
 - I am a first-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof.[Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I also work in ZGCLab.
-- I received my Bachelor’s Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
+- I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
 - My research interests mainly focus on Requirements Modeling, Software Supply Chain, and AI for Software Engineering.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 We propose a multi-agents collaboration framework for requirements engineering! See more [details](https://arxiv.org/pdf/2405.03256).
 - *2024.01*: &nbsp;🎉🎉 Our paper "ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models" has been accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/).
-- *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [REW 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
+- *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang
