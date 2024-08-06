@@ -29,7 +29,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
-- ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao
+- ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang
 - ``JCRD`` [ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202330746), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang
 - ``RE 2023`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. 
