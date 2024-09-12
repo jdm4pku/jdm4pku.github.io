@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-- I am a first-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I also work in ZGCLab, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl) and Prof. [Minghui Zhou](https://scholar.google.com/citations?user=ba3_FkYAAAAJ&hl=en) 
+- I am a second-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I also work in ZGCLab, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl) and Prof. [Minghui Zhou](https://scholar.google.com/citations?user=ba3_FkYAAAAJ&hl=en) 
 - I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
 - My research interests mainly focus on Requirements Modeling, Software Supply Chain, and AI for Software Engineering.
 
