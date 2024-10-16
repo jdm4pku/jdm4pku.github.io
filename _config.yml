@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dongming Jin(靳东明)"
-  avatar           : "images/2/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D Candidate @ CS, PKU"
   location         : "Beijing, China"
   employer         :
