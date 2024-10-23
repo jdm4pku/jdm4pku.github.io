@@ -30,11 +30,11 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
-- ``arXiv`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin
-- ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao
-- ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang
-- ``JCRD`` [ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202330746), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang
-- ``RE Workshop`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. 
+- ``arXiv`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin.
+- ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
+- ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
+- ``计算机研究与发展'24`` [ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202330746), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang. (<span style="color:red">中文 CCF-A</span>)
+- ``RE'24`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
 
 # 🎖 Honors and Awards
 - *2023.05* Outstanding Graduate of Shaanxi Province (Top 1%)
