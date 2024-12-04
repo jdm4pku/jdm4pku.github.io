@@ -23,7 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Modeling, Software Supply Chain, and AI for Software Engineering.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2024](https://conf.researchr.org/home/saner-2025).
+- *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
 - *2024.10*: &nbsp;🎉🎉 We conduct an empirical study on the Package-to-Group mechanism! See more [details](https://arxiv.org/abs/2410.10131).
 - *2024.08*: &nbsp;🎉🎉 We propose a CPS requirements modeling benchmark and evluate the ability of advanced LLMs on requirements modeling.
 - *2024.05*: &nbsp;🎉🎉 We propose a multi-agents collaboration framework for requirements engineering! See more [details](https://arxiv.org/pdf/2405.03256).
@@ -33,9 +33,9 @@ redirect_from:
 # 📝 Publications
 - ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
-- ``SANER'24`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin. (<span style="color:red">CCF-B</span>)
+- ``SANER'25`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin. (<span style="color:red">CCF-B</span>)
 - ``计算机研究与发展'24`` [ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202330746), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang. (<span style="color:red">中文 CCF-A</span>)
-- ``RE'24`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
+- ``RE'23`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
 
 # 🎖 Honors and Awards
 - *2023.05* Outstanding Graduate of Shaanxi Province (Top 1%)
