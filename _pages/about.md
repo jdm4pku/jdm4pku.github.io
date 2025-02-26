@@ -47,14 +47,15 @@ redirect_from:
 - *2020.04* National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2023.06 - 2024.07 (now)*, Ph.D. Candidate in Computer Software and Theory, Peking University. 
+- *2023.06 - 2025.03 (now)*, Ph.D. Candidate in Computer Software and Theory, Peking University. 
 - *2019.09 - 2023.06*, B.S. in Software Engineering, XiDian University
 
 # 💬 Invited Talks
 - *2023.12*, ChatModeler representation, Chinasoft 2023.
+- *2025.03*, LookP2G representation, SANER 2024.
 
 # 💻 Internships
-- *2023.10 - 2024.07(now)*, ZGCLab, Beijing
+- *2023.10 - 2025.03(now)*, ZGCLab, Beijing
 
 # 🌟 Academic Service
 * PC Member: QRS 2024
