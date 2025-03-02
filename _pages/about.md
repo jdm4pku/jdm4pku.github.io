@@ -23,6 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.02*  &nbsp;🎉🎉 We conduct a mechanism study on state tracking! See more [details](https://arxiv.org/abs/2502.20129).
 - *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
 - *2024.10*: &nbsp;🎉🎉 We conduct an empirical study on the Package-to-Group mechanism! See more [details](https://arxiv.org/abs/2410.10131).
 - *2024.08*: &nbsp;🎉🎉 We propose a CPS requirements modeling benchmark and evluate the ability of advanced LLMs on requirements modeling.
@@ -31,6 +32,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
+- ``arXiv`` [Finite State Automata Inside Transformers with Chain-of-Thought](https://arxiv.org/abs/2502.20129), Yifan Zhang, Wenyu Du, **Dongming Jin**, Jie Fu, Zhi Jin.
 - ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
 - ``SANER'25`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin. (<span style="color:red">CCF-B</span>)
@@ -52,7 +54,7 @@ redirect_from:
 
 # 💬 Invited Talks
 - *2023.12*, ChatModeler representation, Chinasoft 2023.
-- *2025.03*, LookP2G representation, SANER 2024.
+- *2025.03*, LookP2G representation, SANER 2025.
 
 # 💻 Internships
 - *2023.10 - 2025.03(now)*, ZGCLab, Beijing
