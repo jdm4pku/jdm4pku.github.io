@@ -63,4 +63,5 @@ redirect_from:
 
 # 🌟 Academic Service
 * PC Member: QRS 2024
+* PC Member: APSEC 2025
 
