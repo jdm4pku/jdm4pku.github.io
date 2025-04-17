@@ -23,6 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 We propose an automtic feature tree construction framework for software artifact management! See more [details](https://github.com/jdm4pku/FTBuilder). 
 - *2025.03*: &nbsp;🎉🎉 Our paper "PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation" has been accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025).
 - *2025.02*: &nbsp;🎉🎉 We conduct a mechanism study on state tracking! See more [details](https://arxiv.org/abs/2502.20129).
 - *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
@@ -33,6 +34,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
+- ``arXiv`` [Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management](), **Dongming Jin**, Zhi Jin, Nianyu Li, Kai Yang, Linyu Li, Suijing Guan.
 - ``arXiv`` [Finite State Automata Inside Transformers with Chain-of-Thought](https://arxiv.org/abs/2502.20129), Yifan Zhang, Wenyu Du, **Dongming Jin**, Jie Fu, Zhi Jin.
 - ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
@@ -64,4 +66,3 @@ redirect_from:
 # 🌟 Academic Service
 * PC Member: QRS 2024
 * PC Member: APSEC 2025
-
