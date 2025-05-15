@@ -23,6 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper "Finite State Automata Inside Transformers with Chain-of-Thought" has been accpeted by [ACL 2025](https://2025.aclweb.org/).
 - *2025.04*: &nbsp;🎉🎉 We propose an automtic feature tree construction framework for software artifact management! See more [details](https://github.com/jdm4pku/FTBuilder). 
 - *2025.03*: &nbsp;🎉🎉 Our paper "PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation" has been accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025).
 - *2025.02*: &nbsp;🎉🎉 We conduct a mechanism study on state tracking! See more [details](https://arxiv.org/abs/2502.20129).
@@ -35,9 +36,9 @@ redirect_from:
 
 # 📝 Publications
 - ``arXiv`` [Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management](), **Dongming Jin**, Zhi Jin, Nianyu Li, Kai Yang, Linyu Li, Suijing Guan.
-- ``arXiv`` [Finite State Automata Inside Transformers with Chain-of-Thought](https://arxiv.org/abs/2502.20129), Yifan Zhang, Wenyu Du, **Dongming Jin**, Jie Fu, Zhi Jin.
 - ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
+- ``ACL'25`` [Finite State Automata Inside Transformers with Chain-of-Thought](https://arxiv.org/abs/2502.20129), Yifan Zhang, Wenyu Du, **Dongming Jin**, Jie Fu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``FSE'25`` [PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation](https://arxiv.org/abs/2410.10131), Hongbin Xiao, Zhi Li, Yilong Yang, Fei Tang, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
 - ``SANER'25`` [A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions](https://arxiv.org/abs/2410.10131), **Dongming Jin**, Nianyu Li, Kai Yang, Minghui Zhou, Zhi Jin. (<span style="color:red">CCF-B</span>)
 - ``计算机研究与发展'24`` [ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202330746), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang. (<span style="color:red">中文 CCF-A</span>)
