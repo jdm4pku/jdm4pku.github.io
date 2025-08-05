@@ -23,8 +23,8 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 We propose a system model generation benchmark from natural language requirements named SysMBench. See more [details] ().
-_ *2025.07*: &nbsp;🎉🎉 We propose a knowledge-driven multi-Agent framework for intelligent requirements development! See more [details] (https://arxiv.org/abs/2507.13081).
+- *2025.08*: &nbsp;🎉🎉 We propose a system model generation benchmark from natural language requirements named SysMBench. See more [details]().
+- *2025.07*: &nbsp;🎉🎉 We propose a knowledge-driven multi-Agent framework for intelligent requirements development! See more [details](https://arxiv.org/abs/2507.13081).
 - *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
 - *2025.05*: &nbsp;🎉🎉 Our paper "Towards Structure-aware Model for Multi-modal Knowledge Graph Completion" has been accepted by [IEEE TMM]().
 - *2025.05*: &nbsp;🎉🎉 Our paper "Finite State Automata Inside Transformers with Chain-of-Thought" has been accpeted by [ACL 2025](https://2025.aclweb.org/).
