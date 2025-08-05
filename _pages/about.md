@@ -23,6 +23,8 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 We propose a system model generation benchmark from natural language requirements named SysMBench. See more [details] ().
+_ *2025.07*: &nbsp;🎉🎉 We propose a knowledge-driven multi-Agent framework for intelligent requirements development! See more [details] (https://arxiv.org/abs/2507.13081).
 - *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
 - *2025.05*: &nbsp;🎉🎉 Our paper "Towards Structure-aware Model for Multi-modal Knowledge Graph Completion" has been accepted by [IEEE TMM]().
 - *2025.05*: &nbsp;🎉🎉 Our paper "Finite State Automata Inside Transformers with Chain-of-Thought" has been accpeted by [ACL 2025](https://2025.aclweb.org/).
@@ -41,6 +43,7 @@ redirect_from:
 - ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
 - ``arXiv`` [Rethinking Regularization Methods for Knowledge Graph Completion](https://arxiv.org/abs/2505.23442), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Haoran Duan, Zhengwei Tao, Xuan Zhang, Jiandong Li. 
 - ``arXiv`` [A Conceptual Framework for Requirements Engineering of Pretrained-Model-Enabled Systems](https://arxiv.org/abs/2507.13095), **Dongming Jin**, Zhi Jin, Linyu Li, Xiaohong Chen.
+- ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo.
 - ``arXiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.
 - ``RE'25`` [Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management](https://www.arxiv.org/abs/2506.03946), **Dongming Jin**, Zhi Jin, Nianyu Li, Kai Yang, Linyu Li, Suijing Guan. (<span style="color:red">CCF-B</span>)
 - ``IEEE TMM`` [Towards Structure-aware Model for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2505.21973), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Chengfeng Dou, Yuanpeng He, Xuan Zhang, Haiyan Zhao. (<span style="color:red">CCF-B</span>)
