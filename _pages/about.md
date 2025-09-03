@@ -72,6 +72,7 @@ redirect_from:
 # 💬 Invited Talks
 - *2023.12*, ChatModeler representation, Chinasoft 2023.
 - *2025.03*, LookP2G representation, SANER 2025.
+- *2025.09*, FTBuilder representation, RE 2025
 
 # 💻 Internships
 - *2023.10 - 2025.09*, ZGCLab, Beijing
