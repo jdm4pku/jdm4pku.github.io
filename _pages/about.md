@@ -25,18 +25,11 @@ redirect_from:
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper "Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration" has been accepted by [ASE 25](https://conf.researchr.org/home/ase-2025).
-<!-- - *2025.08*: &nbsp;🎉🎉 We propose a system model generation benchmark from natural language requirements named SysMBench. See more [details](https://www.arxiv.org/abs/2508.03215).
-- *2025.07*: &nbsp;🎉🎉 We propose a knowledge-driven multi-Agent framework for intelligent requirements development! See more [details](https://arxiv.org/abs/2507.13081). -->
 - *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
 - *2025.05*: &nbsp;🎉🎉 Our paper "Towards Structure-aware Model for Multi-modal Knowledge Graph Completion" has been accepted by [IEEE TMM]().
 - *2025.05*: &nbsp;🎉🎉 Our paper "Finite State Automata Inside Transformers with Chain-of-Thought" has been accpeted by [ACL 2025](https://2025.aclweb.org/).
-<!-- - *2025.04*: &nbsp;🎉🎉 We propose an automtic feature tree construction framework for software artifact management! See more [details](https://github.com/jdm4pku/FTBuilder).  -->
 - *2025.03*: &nbsp;🎉🎉 Our paper "PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation" has been accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025).
-<!-- - *2025.02*: &nbsp;🎉🎉 We conduct a mechanism study on state tracking! See more [details](https://arxiv.org/abs/2502.20129). -->
 - *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
-<!-- - *2024.10*: &nbsp;🎉🎉 We conduct an empirical study on the Package-to-Group mechanism! See more [details](https://arxiv.org/abs/2410.10131).
-- *2024.08*: &nbsp;🎉🎉 We propose a CPS requirements modeling benchmark and evluate the ability of advanced LLMs on requirements modeling.
-- *2024.05*: &nbsp;🎉🎉 We propose a multi-agents collaboration framework for requirements engineering! See more [details](https://arxiv.org/pdf/2405.03256). -->
 - *2024.01*: &nbsp;🎉🎉 Our paper "ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models" has been accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/).
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
