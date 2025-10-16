@@ -24,6 +24,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our paper "Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion" has been accepted by [ICSE 26](https://conf.researchr.org/home/icse-2026).
 - *2025.08*: &nbsp;🎉🎉 Our paper "Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration" has been accepted by [ASE 25](https://conf.researchr.org/home/ase-2025).
 - *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
 - *2025.05*: &nbsp;🎉🎉 Our paper "Towards Structure-aware Model for Multi-modal Knowledge Graph Completion" has been accepted by [IEEE TMM]().
@@ -43,7 +44,7 @@ redirect_from:
 - ``arXiv`` [A Conceptual Framework for Requirements Engineering of Pretrained-Model-Enabled Systems](https://arxiv.org/abs/2507.13095), **Dongming Jin**, Zhi Jin, Linyu Li, Xiaohong Chen.
 - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo.
 - ``arXiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.
-- ``ICSE'26`` [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://arxiv.org/pdf/2506.22656),  Zhujun Wu, Xiaohong Chen, Zhi Jin, Ming Hu, Dongming Jin. (<span style="color:red">CCF-A</span>)
+- ``ICSE'26`` [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://arxiv.org/pdf/2506.22656),  Zhujun Wu, Xiaohong Chen, Zhi Jin, Ming Hu, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
 - ``ASE'25`` [Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration](https://arxiv.org/pdf/2506.22656), Jiangping Huang, **Dongming Jin**, Weisong Sun, Yang Liu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``RE'25`` [Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management](https://www.arxiv.org/abs/2506.03946), **Dongming Jin**, Zhi Jin, Nianyu Li, Kai Yang, Linyu Li, Suijing Guan. (<span style="color:red">CCF-B</span>)
 - ``IEEE TMM`` [Towards Structure-aware Model for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2505.21973), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Chengfeng Dou, Yuanpeng He, Xuan Zhang, Haiyan Zhao. (<span style="color:red">CCF-B</span>)
