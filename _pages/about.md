@@ -61,6 +61,7 @@ redirect_from:
 - ``RE'23`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
 
 # 🎖 Honors and Awards
+- *2025.09* Outstanding Scientific Research Award, Peking University
 - *2024.09* Outstanding Student,Peking University
 - *2024.09* China National Petroleum Scholarship,Peking University
 - *2023.08* Hongcai Scholarship,Peking University
