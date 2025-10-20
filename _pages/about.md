@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-- I am a third-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I am visiting researcher at Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). In addition, I collaborate closely with Prof. [Xiaohong Chen]() in East China Normal University.
+- I am a third-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I am a visiting researcher at Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). In addition, I collaborate closely with Prof. [Xiaohong Chen]() in East China Normal University.
 - I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
