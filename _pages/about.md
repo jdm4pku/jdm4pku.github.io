@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-- I am a second-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. 
+- I am a second-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I also work in Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl).
 <!-- Now I also work in ZGCLab, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl).  -->
 - I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
@@ -80,6 +80,7 @@ redirect_from:
 - *2025.09*, FTBuilder representation, RE 2025
 
 # 💻 Internships
+- *2025.09 - now*, WHU, Wuhan
 - *2023.10 - 2025.09*, ZGCLab, Beijing
 
 # 🌟 Academic Service
