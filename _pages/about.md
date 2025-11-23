@@ -34,17 +34,12 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
-- ``arXiv`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan.
 - ``arXiv`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yingtao Fang.
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
-- ``arXiv`` [IntentCoding: Amplifying User Intent in Code Generation](), Zheng Fang, Yihong Dong, Lili Mou, **Dongming Jin**, Zhi Jin, Ge Li.
-- ``arXiv`` [An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs](https://arxiv.org/abs/2408.02450), **Dongming Jin**, Shengxin Zhao, Zhi Jin, Xiaohong Chen, Chunhui Wang, Zheng Fang, Hongbin Xiao.
-- ``arXiv`` [MARE: Multi-Agents Collaboration Framework for Requirements Engineering](https://arxiv.org/pdf/2405.03256), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Chunhui Wang.
-- ``arXiv`` [Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding](https://arxiv.org/abs/2508.02426), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Yichi Zhang, Haoran Duan, Nyima Tash.
-- ``arXiv`` [Rethinking Regularization Methods for Knowledge Graph Completion](https://arxiv.org/abs/2505.23442), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Haoran Duan, Zhengwei Tao, Xuan Zhang, Jiandong Li. 
-- ``arXiv`` [A Conceptual Framework for Requirements Engineering of Pretrained-Model-Enabled Systems](https://arxiv.org/abs/2507.13095), **Dongming Jin**, Zhi Jin, Linyu Li, Xiaohong Chen.
 - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo.
-- ``arXiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.
+- ``TOSEM'25`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
+- ``TOSEM'25`` [iReDev: Automated Concern Extraction from Textual Requirements of Cyber-physical Systems: A Multi-solution Study](https://arxiv.org/abs/2510.19237), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Shengxin Zhao, Chunhui Wang, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
+- ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. <u>*(Under Major Revision)*</u> (<span style="color:red">CCF-A</span>)
 
 #### 2025
 - ``ICSE'26`` [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://arxiv.org/pdf/2506.22656),  Zhujun Wu, Xiaohong Chen, Zhi Jin, Ming Hu, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
