@@ -34,6 +34,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
+- ``arXiv`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan.
 - ``arXiv`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yingtao Fang.
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 - ``arXiv`` [IntentCoding: Amplifying User Intent in Code Generation](), Zheng Fang, Yihong Dong, Lili Mou, **Dongming Jin**, Zhi Jin, Ge Li.
