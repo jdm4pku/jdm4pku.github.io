@@ -23,6 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong) in 2024.
 - *2025.10*: &nbsp;🎉🎉 Our paper "Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion" has been accepted by [ICSE 26](https://conf.researchr.org/home/icse-2026).
 - *2025.08*: &nbsp;🎉🎉 Our paper "Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration" has been accepted by [ASE 25](https://conf.researchr.org/home/ase-2025).
 - *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
@@ -57,6 +58,7 @@ redirect_from:
 - ``RE'23`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
 
 # 🎖 Honors and Awards
+- *2025.12* Top 10 Highly Cited Paper, JCRD
 - *2025.09* Outstanding Scientific Research Award, Peking University
 - *2024.09* Outstanding Student,Peking University
 - *2024.09* China National Petroleum Scholarship,Peking University
@@ -76,7 +78,7 @@ redirect_from:
 - *2025.09*, FTBuilder representation, RE 2025
 
 # 💻 Internships
-- *2025.10 - now*, HUAWEI, Wuhan
+- *2025.10 - now*, HUAWEI 2012 Lab, Wuhan
 - *2023.10 - 2025.09*, ZGCLab, Beijing
 
 # 🌟 Academic Service
