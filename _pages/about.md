@@ -23,6 +23,7 @@ redirect_from:
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper "Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding" has been accepted by [WWW'26](https://www2026.thewebconf.org/) 
 - *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong) in 2024.
 - *2025.10*: &nbsp;🎉🎉 Our paper "Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion" has been accepted by [ICSE 26](https://conf.researchr.org/home/icse-2026).
 - *2025.08*: &nbsp;🎉🎉 Our paper "Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration" has been accepted by [ASE 25](https://conf.researchr.org/home/ase-2025).
@@ -41,6 +42,9 @@ redirect_from:
 - ``TOSEM'25`` [Automated Concern Extraction from Textual Requirements of Cyber-physical Systems: A Multi-solution Study](https://arxiv.org/abs/2510.19237), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Shengxin Zhao, Chunhui Wang, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
 - ``TOSEM'25`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan. <u>*(Under Minor Review)*</u> (<span style="color:red">CCF-A</span>)
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. <u>*(Under Major Revision)*</u> (<span style="color:red">CCF-A</span>)
+
+#### 2026
+- ``WWW'26`` [Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding](https://arxiv.org/abs/2508.02426), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Yichi Zhang, Haoran Duan, Xuan Zhang, Zhengwei Tao, Nyima Tash. (<span style="color:red">CCF-A</span>)
 
 #### 2025
 - ``ICSE'26`` [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://arxiv.org/pdf/2506.22656),  Zhujun Wu, Xiaohong Chen, Zhi Jin, Ming Hu, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
