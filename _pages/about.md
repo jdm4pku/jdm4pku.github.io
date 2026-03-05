@@ -51,7 +51,7 @@ redirect_from:
 - ``ICSE'26`` [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://arxiv.org/pdf/2506.22656),  Zhujun Wu, Xiaohong Chen, Zhi Jin, Ming Hu, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
 - ``ASE'25`` [Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration](https://arxiv.org/pdf/2506.22656), Jiangping Huang, **Dongming Jin**, Weisong Sun, Yang Liu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``RE'25`` [Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management](https://www.arxiv.org/abs/2506.03946), **Dongming Jin**, Zhi Jin, Nianyu Li, Kai Yang, Linyu Li, Suijing Guan. (<span style="color:red">CCF-B</span>)
-- ``IEEE TMM`` [Towards Structure-aware Model for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2505.21973), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Chengfeng Dou, Yuanpeng He, Xuan Zhang, Haiyan Zhao. (<span style="color:red">CCF-B</span>)
+- ``IEEE TMM`` [Towards Structure-aware Model for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2505.21973), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Chengfeng Dou, Yuanpeng He, Xuan Zhang, Haiyan Zhao. (<span style="color:red">CCF-A</span>)
 - ``ACL'25`` [Finite State Automata Inside Transformers with Chain-of-Thought](https://arxiv.org/abs/2502.20129), Yifan Zhang, Wenyu Du, **Dongming Jin**, Jie Fu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``FSE'25`` [PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation](https://arxiv.org/abs/2410.10131), Hongbin Xiao, Zhi Li, Yilong Yang, Fei Tang, **Dongming Jin**. (<span style="color:red">CCF-A</span>)
 
