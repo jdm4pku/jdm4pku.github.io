@@ -37,6 +37,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 📝 Publications
+- ``arXiv`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation](https://arxiv.org/abs/2602.18306), **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Yuanpeng He, Xiaohong Chen. 
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo.
 - ``arXiv`` [IntentCoding: Amplifying User Intent in Code Generation](https://www.arxiv.org/abs/2602.00066), Zheng Fang, Yihong Dong, Lili Mou, **Dongming Jin**, Zhi Jin, Ge Li.
