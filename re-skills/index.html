@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RE-Skills — 44 Requirements Engineering Skills</title>
+  <meta name="description" content="Browse 44 requirements engineering skills across 8 RE lifecycle phases. Based on Software Requirements, 3rd Edition by Wiegers & Beatty.">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+            mono: ['JetBrains Mono', 'Fira Code', 'monospace']
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-white text-slate-900 font-sans antialiased">
+
+  <!-- Navbar -->
+  <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="#hero" class="flex items-center gap-2 group">
+          <div class="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
+            <span class="text-white font-bold text-sm">RE</span>
+          </div>
+          <span class="font-bold text-lg text-slate-900">RE-Skills</span>
+        </a>
+        <div class="hidden md:flex items-center gap-8">
+          <a href="#hero" class="nav-link text-sm font-medium text-slate-600 hover:text-indigo-600 transition-colors" data-section="hero">Overview</a>
+          <a href="#phases" class="nav-link text-sm font-medium text-slate-600 hover:text-indigo-600 transition-colors" data-section="phases">Phases</a>
+          <a href="#skills" class="nav-link text-sm font-medium text-slate-600 hover:text-indigo-600 transition-colors" data-section="skills">Skills</a>
+          <a href="#commands" class="nav-link text-sm font-medium text-slate-600 hover:text-indigo-600 transition-colors" data-section="commands">Commands</a>
+          <a href="https://github.com/jdm4pku/RE-Skills" target="_blank" rel="noopener" class="text-sm font-medium text-slate-500 hover:text-slate-700 transition-colors flex items-center gap-1">
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+            GitHub
+          </a>
+        </div>
+        <button id="mobile-menu-btn" class="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors">
+          <svg class="w-6 h-6 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path id="menu-icon-open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+            <path id="menu-icon-close" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+    <!-- Mobile menu -->
+    <div id="mobile-menu" class="hidden md:hidden border-t border-slate-200 bg-white">
+      <div class="px-4 py-3 space-y-2">
+        <a href="#hero" class="block px-3 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-50" onclick="closeMobileMenu()">Overview</a>
+        <a href="#phases" class="block px-3 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-50" onclick="closeMobileMenu()">Phases</a>
+        <a href="#skills" class="block px-3 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-50" onclick="closeMobileMenu()">Skills</a>
+        <a href="#commands" class="block px-3 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-50" onclick="closeMobileMenu()">Commands</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="hero" class="pt-16">
+    <div class="bg-gradient-to-br from-slate-800 via-slate-900 to-indigo-950 text-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
+        <div class="text-center max-w-3xl mx-auto">
+          <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6">
+            RE-Skills
+          </h1>
+          <p class="text-lg sm:text-xl text-slate-300 mb-4">
+            44 Requirements Engineering Skills for AI Agents & Engineers
+          </p>
+          <p class="text-sm text-slate-400 mb-10">
+            Based on <em>Software Requirements, 3rd Edition</em> by Karl Wiegers & Joy Beatty
+          </p>
+          <!-- Stats -->
+          <div class="grid grid-cols-3 gap-4 sm:gap-8 max-w-lg mx-auto mb-10">
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4 sm:p-6">
+              <div class="text-3xl sm:text-4xl font-bold text-white">44</div>
+              <div class="text-xs sm:text-sm text-slate-300 mt-1">Skills</div>
+            </div>
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4 sm:p-6">
+              <div class="text-3xl sm:text-4xl font-bold text-white">8</div>
+              <div class="text-xs sm:text-sm text-slate-300 mt-1">Phases</div>
+            </div>
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4 sm:p-6">
+              <div class="text-3xl sm:text-4xl font-bold text-white">9</div>
+              <div class="text-xs sm:text-sm text-slate-300 mt-1">Commands</div>
+            </div>
+          </div>
+          <a href="#skills" class="inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 rounded-lg transition-colors">
+            Explore Skills
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Architecture Overview -->
+  <section id="architecture" class="bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+      <div class="text-center mb-12">
+        <h2 class="text-2xl sm:text-3xl font-bold text-slate-900 mb-3">Three-Tier Architecture</h2>
+        <p class="text-slate-600 max-w-xl mx-auto">Skills are organized into three layers that build upon each other.</p>
+      </div>
+      <div class="max-w-2xl mx-auto space-y-4">
+        <!-- Workflow tier -->
+        <button onclick="filterByType('workflow')" class="tier-card w-full text-left bg-purple-50 border-2 border-purple-200 hover:border-purple-400 rounded-xl p-6 transition-all hover:shadow-md group">
+          <div class="flex items-center justify-between">
+            <div>
+              <div class="flex items-center gap-3 mb-2">
+                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-purple-100 text-purple-800">Workflow</span>
+                <span class="text-sm text-slate-500">8 skills</span>
+              </div>
+              <h3 class="font-semibold text-slate-900 mb-1">End-to-End Processes</h3>
+              <p class="text-sm text-slate-600">Multi-phase workflows that orchestrate component and interactive skills into complete RE processes.</p>
+            </div>
+            <svg class="w-5 h-5 text-slate-400 group-hover:text-purple-600 transition-colors flex-shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          </div>
+        </button>
+        <!-- Arrow -->
+        <div class="flex justify-center">
+          <svg class="w-6 h-6 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>
+        </div>
+        <!-- Interactive tier -->
+        <button onclick="filterByType('interactive')" class="tier-card w-full text-left bg-amber-50 border-2 border-amber-200 hover:border-amber-400 rounded-xl p-6 transition-all hover:shadow-md group">
+          <div class="flex items-center justify-between">
+            <div>
+              <div class="flex items-center gap-3 mb-2">
+                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-amber-100 text-amber-800">Interactive</span>
+                <span class="text-sm text-slate-500">7 skills</span>
+              </div>
+              <h3 class="font-semibold text-slate-900 mb-1">Guided Decision-Making</h3>
+              <p class="text-sm text-slate-600">Multi-turn Q&A flows with adaptive questions and context-aware recommendations.</p>
+            </div>
+            <svg class="w-5 h-5 text-slate-400 group-hover:text-amber-600 transition-colors flex-shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          </div>
+        </button>
+        <!-- Arrow -->
+        <div class="flex justify-center">
+          <svg class="w-6 h-6 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>
+        </div>
+        <!-- Component tier -->
+        <button onclick="filterByType('component')" class="tier-card w-full text-left bg-blue-50 border-2 border-blue-200 hover:border-blue-400 rounded-xl p-6 transition-all hover:shadow-md group">
+          <div class="flex items-center justify-between">
+            <div>
+              <div class="flex items-center gap-3 mb-2">
+                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-100 text-blue-800">Component</span>
+                <span class="text-sm text-slate-500">29 skills</span>
+              </div>
+              <h3 class="font-semibold text-slate-900 mb-1">Templates & Artifacts</h3>
+              <p class="text-sm text-slate-600">Self-contained templates producing specific RE deliverables with fill-in structures and examples.</p>
+            </div>
+            <svg class="w-5 h-5 text-slate-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Phase Timeline -->
+  <section id="phases" class="bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+      <div class="text-center mb-12">
+        <h2 class="text-2xl sm:text-3xl font-bold text-slate-900 mb-3">8 RE Lifecycle Phases</h2>
+        <p class="text-slate-600 max-w-xl mx-auto">Skills are mapped to phases of the requirements engineering lifecycle.</p>
+      </div>
+      <div id="phase-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Browser -->
+  <section id="skills" class="bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+      <div class="text-center mb-8">
+        <h2 class="text-2xl sm:text-3xl font-bold text-slate-900 mb-3">All Skills</h2>
+        <p class="text-slate-600">Browse, search, and filter all 44 requirements engineering skills.</p>
+      </div>
+
+      <!-- Filter Bar -->
+      <div class="bg-white rounded-xl border border-slate-200 p-4 sm:p-6 mb-8 shadow-sm">
+        <!-- Search -->
+        <div class="relative mb-4">
+          <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          <input id="search-input" type="text" placeholder="Search skills by name or description..." class="w-full pl-10 pr-4 py-2.5 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent">
+        </div>
+        <!-- Type filters -->
+        <div class="flex flex-wrap gap-2 mb-4">
+          <span class="text-xs font-semibold text-slate-500 uppercase tracking-wider self-center mr-2">Type:</span>
+          <button onclick="toggleTypeFilter('all')" class="type-filter-btn active px-3 py-1.5 rounded-full text-xs font-medium transition-all" data-type="all">All</button>
+          <button onclick="toggleTypeFilter('component')" class="type-filter-btn px-3 py-1.5 rounded-full text-xs font-medium transition-all" data-type="component">
+            <span class="inline-block w-2 h-2 rounded-full bg-blue-500 mr-1"></span>Component (29)
+          </button>
+          <button onclick="toggleTypeFilter('interactive')" class="type-filter-btn px-3 py-1.5 rounded-full text-xs font-medium transition-all" data-type="interactive">
+            <span class="inline-block w-2 h-2 rounded-full bg-amber-500 mr-1"></span>Interactive (7)
+          </button>
+          <button onclick="toggleTypeFilter('workflow')" class="type-filter-btn px-3 py-1.5 rounded-full text-xs font-medium transition-all" data-type="workflow">
+            <span class="inline-block w-2 h-2 rounded-full bg-purple-500 mr-1"></span>Workflow (8)
+          </button>
+        </div>
+        <!-- Phase filters -->
+        <div class="flex flex-wrap gap-2 mb-4">
+          <span class="text-xs font-semibold text-slate-500 uppercase tracking-wider self-center mr-2">Phase:</span>
+          <button onclick="togglePhaseFilter('all')" class="phase-filter-btn active px-3 py-1.5 rounded-full text-xs font-medium transition-all" data-phase="all">All</button>
+          <div id="phase-filter-buttons" class="contents">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+        <!-- Results count -->
+        <div class="text-sm text-slate-500">
+          Showing <span id="results-count" class="font-semibold text-slate-700">44</span> of 44 skills
+        </div>
+      </div>
+
+      <!-- Skills Grid -->
+      <div id="skills-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <!-- Rendered by JS -->
+      </div>
+
+      <!-- Empty state -->
+      <div id="empty-state" class="hidden text-center py-16">
+        <svg class="w-16 h-16 text-slate-300 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        <p class="text-slate-500 mb-4">No skills match your search.</p>
+        <button onclick="resetFilters()" class="text-indigo-600 hover:text-indigo-700 font-medium text-sm">Reset filters</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Commands Section -->
+  <section id="commands" class="bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+      <div class="text-center mb-12">
+        <h2 class="text-2xl sm:text-3xl font-bold text-slate-900 mb-3">9 Slash Commands</h2>
+        <p class="text-slate-600 max-w-xl mx-auto">Multi-skill workflow commands that chain skills into single invocations.</p>
+      </div>
+      <div id="commands-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-slate-900 text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2">
+          <div class="w-6 h-6 bg-indigo-600 rounded flex items-center justify-center">
+            <span class="text-white font-bold text-xs">RE</span>
+          </div>
+          <span class="font-semibold text-white text-sm">RE-Skills</span>
+        </div>
+        <p class="text-sm text-center sm:text-left">
+          Based on <em>Software Requirements, 3rd Edition</em> by Karl Wiegers & Joy Beatty
+        </p>
+        <a href="https://github.com/jdm4pku/RE-Skills" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          View on GitHub
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Skill Detail Modal -->
+  <div id="modal-overlay" class="modal-overlay hidden fixed inset-0 z-50 flex items-center justify-center p-4">
+    <div class="modal-backdrop absolute inset-0 bg-black/50 backdrop-blur-sm" onclick="closeModal()"></div>
+    <div class="modal-content relative bg-white rounded-2xl shadow-2xl w-full max-w-2xl max-h-[85vh] overflow-hidden flex flex-col">
+      <!-- Modal Header -->
+      <div class="flex items-start justify-between p-6 border-b border-slate-200">
+        <div>
+          <h3 id="modal-title" class="text-xl font-bold text-slate-900 mb-2"></h3>
+          <div id="modal-badges" class="flex flex-wrap gap-2"></div>
+        </div>
+        <button onclick="closeModal()" class="p-1 rounded-lg hover:bg-slate-100 transition-colors flex-shrink-0 ml-4" aria-label="Close">
+          <svg class="w-5 h-5 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <!-- Modal Body -->
+      <div class="overflow-y-auto p-6 space-y-6">
+        <!-- Intent -->
+        <div>
+          <h4 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-2">Intent</h4>
+          <p id="modal-intent" class="text-slate-700 text-sm leading-relaxed"></p>
+        </div>
+        <!-- Best For -->
+        <div id="modal-bestfor-section">
+          <h4 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-2">Best For</h4>
+          <ul id="modal-bestfor" class="space-y-1.5"></ul>
+        </div>
+        <!-- Scenarios -->
+        <div id="modal-scenarios-section">
+          <h4 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-2">When to Use</h4>
+          <ul id="modal-scenarios" class="space-y-1.5"></ul>
+        </div>
+        <!-- Estimated Time -->
+        <div id="modal-time-section">
+          <h4 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-2">Estimated Time</h4>
+          <p id="modal-time" class="text-slate-700 text-sm flex items-center gap-2">
+            <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            <span></span>
+          </p>
+        </div>
+        <!-- Related Commands -->
+        <div id="modal-commands-section">
+          <h4 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-2">Used by Commands</h4>
+          <div id="modal-commands" class="flex flex-wrap gap-2"></div>
+        </div>
+      </div>
+      <!-- Modal Footer -->
+      <div class="p-6 border-t border-slate-200 bg-slate-50">
+        <a id="modal-github-link" href="#" target="_blank" rel="noopener" class="inline-flex items-center gap-2 text-sm font-medium text-indigo-600 hover:text-indigo-700 transition-colors">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          View on GitHub
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

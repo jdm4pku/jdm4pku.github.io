@@ -94,6 +94,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+  - re-skills
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
