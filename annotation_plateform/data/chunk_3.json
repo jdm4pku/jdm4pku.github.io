@@ -1,0 +1,335 @@
+[
+  {
+    "name": "SMS Management Platform",
+    "application_type": "Email Clients",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Real-time Features",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a short message service platform for sending and managing short messages. The platform should have functionalities for sending short messages, managing user information, configuring policies, and monitoring short message sending situations. Users should be able to send short messages, view short message sending records, configure sending policies, and monitor short message sending situations. Apply azure mist as the background; style all components with dark slate blue."
+  },
+  {
+    "name": "Supply Chain Traceability Platform",
+    "application_type": "ERP Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "Big Data",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a supply chain traceability website for tracking and verifying the origin and circulation of products with the unique product IDs. The website should have functionalities for product registration, tracking, inquiry, and verification. Users should be able to register products, track the circulation path of products, query the current status of products, and verify the authenticity of products. The website should also have data statistics and analysis functions to help users understand the operation of the supply chain. Define the background as misty rose and components as firebrick."
+  },
+  {
+    "name": "Paper Cup Manufacturing Manager",
+    "application_type": "ERP Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "Big Data"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a paper cup manufacturing system to manage inventory, production, and sales of paper cups. The system should have functionalities for managing raw materials, finished products, inventory, production, and sales. Users should be able to record and track the inventory, usage, and sales of raw materials and finished products, and generate detailed reports. The system should also have customer management capabilities, including recording customer information, sales history, and sales statistics. Assign light goldenrod to the background and olive drab to the UI elements."
+  },
+  {
+    "name": "Hospital Management Portal",
+    "application_type": "ERP Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "Big Data"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a hospital management website for managing hospital finances, reports, inventory, and patient information. The website should have financial management functionality, including collecting patient fees and managing hospital finances. The reporting functionality should include inventory reports, patient reports, and financial reports. Employees should be able to submit daily reports to superiors, including detailed information about daily activities. Pharmacy management should include inventory management of medicines. Patient electronic files should include patient name, date of visit, diagnosis, and comments. The website should also have claim formulation, laboratory management, and theater management. Configure the background color to peach puff, with components using indian red."
+  },
+  {
+    "name": "E-Government Integrated Management Platform",
+    "application_type": "ERP Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "File Handling"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an e-government system for office management, infrastructure management, procurement management, personnel management, financial management, and decision-making management. The system should have functionalities for office management, infrastructure management, procurement management, personnel management, financial management, and decision-making management. Users should be able to browse related information, submit applications, approve, query status, and perform related operations. The system should also include functions such as leave, middle-level cadres leaving Shenzhen, attendance, and \"five powers\" management, which can design and circulate corresponding forms and processes. Implement light pink for the page background and medium violet red for the elements."
+  },
+  {
+    "name": "Employee Attendance Tracker",
+    "application_type": "Internal Tools",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a time attendance system to record employee attendance. The system should have functionalities for employee clocking in and out, and viewing attendance records. Employees should be able to clock in and out, and view their own attendance records, including attendance time and absence time. Administrators should be able to view all employees' attendance records, perform statistics, and analysis. Specify papaya whip as the base color and dark orange for all components."
+  },
+  {
+    "name": "Barber Shop Management System",
+    "application_type": "Internal Tools",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a barber shop management website for managing barbers and services. The website should have functionalities for adding barbers, services, and sending WhatsApp notifications. Users should be able to browse barbers and services, add new barbers and services, and send notifications to clients. Style the layout with snow in the background and dim gray for the interface."
+  },
+  {
+    "name": "Women's Health Survey Portal",
+    "application_type": "Internal Tools",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a health survey website for women to fill out and submit health information. The website should have functionalities for filling out the survey, and submitting information. Users can fill out the relevant survey, and submit their information. The system will automatically collect the information and provide data management, permission management, data review, and reporting functions. Use whitesmoke as the default background and dark cyan for component styling."
+  },
+  {
+    "name": "Driver Recruitment Portal",
+    "application_type": "Job Search Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Authentication",
+        "E-commerce"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a recruitment website for hiring drivers and posting job listings. The website should have functionalities for user registration, job posting, job application, and contact form. Users should be able to register and create profiles, apply for jobs, and manage their contact information. Clients should be able to view their active job postings. The website should include pages such as home, about us, clients, drivers, jobs, and contact. Design the site using white as the background and navy for content blocks."
+  },
+  {
+    "name": "Blue-Collar Job Connector",
+    "application_type": "Job Search Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "E-commerce",
+        "Authentication"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a blue-collar job site that connects blue-collar workers with employers. The website should allow users to create profiles, including name, contact information, skills and qualifications, email address, and photos. Users can browse and search job listings, including construction workers, plumbers, electricians, and more. Apply ivory for the layout background and forest green for interactive elements."
+  },
+  {
+    "name": "Internship Portal",
+    "application_type": "Job Search Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "E-commerce",
+        "Authentication"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an internship portal website that connects students with companies offering internship opportunities. The website should have a student panel and a company panel, where students can browse and apply for internships, and companies can post internship positions. The website should also be optimized for speed, navigation, user interface, and user experience. Choose mint cream for the background; set all component colors to teal."
+  },
+  {
+    "name": "Sports Talent Connect",
+    "application_type": "Job Search Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Authentication",
+        "Real-time Features"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a high-performance sports recruitment platform that connects athletes and sports organizations. The platform should have functionalities for athlete registration, job posting, job application, and message notification. Users should be able to log in, browse job listings, apply for jobs of interest, and receive relevant notifications. Sports organizations should be able to post jobs, and communicate with athletes. Set ghost white as the body background and use slate gray for the UI."
+  },
+  {
+    "name": "Information Security Course Portal",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "AI Integration",
+        "Form Systems"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a website for the Global Institute of Information Security to display courses and provide online enrollment functionality. The website should have functionalities such as course catalog, chatbot integration, contact form, and certification pathways. Users should be able to browse courses, view course details, enroll online, and contact the institute. Style all pages with a lavender background and indigo components."
+  },
+  {
+    "name": "Data Science Learning Platform",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Authentication",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an online learning platform for data science that provides Python data science courses. The platform should have functionalities for browsing courses, learning courses, submitting assignments, and querying grades. Users should be able to browse and select Python data science courses of interest, learn course content, submit assignments, and query their own learning grades. Use honeydew in the background layer and dark olive green for the component layer."
+  },
+  {
+    "name": "Student Training Match Portal",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please develop a student portal website for registration and management of student information. The website should have user registration and profile management features, allowing students to input and manage personal details, qualifications, and career preferences. The website should also have an advanced matching algorithm that matches students with training providers based on criteria such as qualifications, location, field of study, and career interests. Additionally, the website should streamline the application process with an intuitive interface, allowing students to easily apply for programs. Training providers should also be able to access student information based on predefined criteria to enable direct communication and attraction of students to their skills development programs. Establish azure as the main background and midnight blue for the controls."
+  },
+  {
+    "name": "Personal Coaching Match",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Real-time Features",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a web application for one-to-one coaching sessions to match coaches and users. The application should have functionalities such as personality assessment, user profiles, coaching and mentorship matching, scheduling and session management, and goal setting and progress tracking. Users should be able to complete a personality assessment, create and manage their profiles, search for and select suitable coaches, schedule coaching sessions, and set and track goals. Set the background to beige, and apply saddle brown to components."
+  },
+  {
+    "name": "Virtual Study Group Hub",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Real-time Features",
+        "E-commerce",
+        "Authentication"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a virtual study group website where users can create or join study groups, share resources, and collaborate on projects. The website should have functionalities for creating and joining groups, sharing resources, and collaborating on projects. Users should be able to join groups, download resources, and participate in project discussions. The website should also have a personal center where users can view their personal information. Configure all backgrounds with alice blue and all components with steel blue."
+  },
+  {
+    "name": "Adult Vocabulary Learning Hub",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Data Visualization",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an adult vocabulary learning website that includes a variety of quizzes and word games, such as crossword puzzles, unjumble letters, finding synonyms and antonyms, flashcards, and fill-in-the-blank. The website should have a dashboard that displays a progress summary. A set of 10 new words should be taught every week, and users should be able to choose an avatar and play a simple game while waiting in the waiting room. The website should include a home page, 5 activity pages, a dashboard, and blog pages. Assign light gray to body backgrounds and dark red to main components."
+  },
+  {
+    "name": "Kids Recycling Adventure",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "AI Integration",
+        "Real-time Features"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please develop a children's recycling game website to educate kids on proper waste recycling. The game should include competitive elements such as a leaderboard to keep kids engaged and motivated. The game should use a cartoon-style visual design to make it visually appealing to children. Kids should be able to play the game, receive feedback, learn how to correctly sort waste into the corresponding containers, and receive rewards and recognition through the game. Use seashell for container backgrounds and crimson for component visuals."
+  },
+  {
+    "name": "DMV Practice Test Website",
+    "application_type": "Learning Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "AI Integration",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a DMV practice test website to help users practice for their driver's license exam. The website should have features such as a practice question bank, simulated exams, and error analysis. Users should be able to select practice questions, take simulated exams, and view error analysis and exam scores. Set page background to floral white; color all components with dark goldenrod."
+  },
+  {
+    "name": "Canadian Nutrition Label Assistant",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization",
+        "Media Display"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a website that displays Canadian nutrition facts labels to help users understand food nutrition information. The website should have a product search function, where users can input food names or keywords (such as apple) to search for related nutrition information. The website should also have a nutrition analysis function, where users can input food ingredients (such as chicken, rice, broccoli) and serving sizes to calculate their nutritional value. Additionally, the website should provide a packaging design function, where users can design their own food packaging according to Canadian regulations. Define background as linen; define components with maroon."
+  }
+]

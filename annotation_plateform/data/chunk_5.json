@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Construction Management Portal",
+    "application_type": "Project Management Tools",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "Big Data"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please develop a construction management website for managing projects and documents. The website should have functionalities for document management, project scheduling, communication tools, estimating job costing, time tracking, and resource management. Users should be able to create and manage projects, schedule project timelines, communicate with team members, estimate project costs, track project progress, and manage resources. Assign light gray to the background and dark red to the UI elements."
+  },
+  {
+    "name": "Medical Journal Portal",
+    "application_type": "Publishing/Blogging Platforms",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Dynamic Content Rendering",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a medical journal website for publishing medical articles and information. The website should have a user-friendly interface and responsive design, making it easy for users to browse and find information. The website should include a search function, allowing users to quickly find relevant articles and information, open articals, and download artical PDFs. Users can manage account by updating profile information within the author's account. Configure the background color to seashell, with components using crimson."
+  },
+  {
+    "name": "Entertainment Directory Hub",
+    "application_type": "Publishing/Blogging Platforms",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Media Display",
+        "User Interaction"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an entertainment directory website to display band information and advertisements. The website should have band registration and login functionality, allowing band members to input their bio, provide picture links and audio sample links, and provide direct links to YouTube videos. Additionally, the website should allow advertisers to register, log in, and upload their ad content. Users should be able to browse band information, listen to audio samples, watch videos, and view advertisements. Implement floral white for the page background and dark goldenrod for the elements."
+  },
+  {
+    "name": "Species BioInfo Database",
+    "application_type": "Publishing/Blogging Platforms",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "Big Data"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a species biological information database website for displaying and managing biological information data. The website should have functionalities for browsing, searching, and filtering. Users should be able to browse biological information data for different species, search for specific data, and filter data based on different criteria. Specify linen as the base color and maroon for all components."
+  },
+  {
+    "name": "Startup Story Hub",
+    "application_type": "Publishing/Blogging Platforms",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "User Interaction"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a startup article publishing mini-program to display entrepreneurial experiences and stories. The mini-program should have functions for browsing articles, searching, collecting, and sharing. Users should be able to browse articles in different categories, search for articles of interest, collect favorite articles, and share articles on other platforms. The mini-program should also have user registration and login functions, allowing users to manage their collections and reading history. Style the layout with old lace in the background and rosy brown for the interface."
+  },
+  {
+    "name": "Social Sharing Hub",
+    "application_type": "Social Media Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Authentication",
+        "Form Systems",
+        "E-commerce"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a social website for user registration, making friends, and sharing. The website should have a registration function, allowing users to create an account and log in. Users should be able to invite friends to join the website and vote on content. Users should be able to upload pictures and earn points. The website should have a personal homepage that displays user information and updates. Use light cyan as the default background and cadet blue for component styling."
+  },
+  {
+    "name": "Smart Matrimonial Matchmaker",
+    "application_type": "Social Media Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Authentication",
+        "Form Systems",
+        "Real-time Features"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a smart matrimonial website for users to find partners. The website should have user registration and login functionality, allowing users to create profiles, including uploading photos and filling out personal information. The website should have advanced search and filtering options, enabling users to find suitable partners based on different criteria. The website should also have messaging and chat functionality, allowing users to communicate with each other. Design the site using lemon chiffon as the background and chocolate for content blocks."
+  },
+  {
+    "name": "Skill Connect",
+    "application_type": "Social Media Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Authentication",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a skill sharing platform for showcasing personal skills and connecting with others. The platform should allow users to create profiles, add skills and certifications, and search for other users based on their qualifications. Users should be able to browse other users' profiles, view their skills and certifications, and contact them. The platform should also have a search feature that allows users to find other users based on their skills and certifications. Apply cornsilk for the layout background and peru for interactive elements."
+  },
+  {
+    "name": "World of Imagination",
+    "application_type": "Social Media Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "Real-time Features",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a website called \"World of Imagination\" to showcase and inspire users' imagination. The website should have functionalities for showcasing user-created content, sharing ideas, discussing, and interacting. Users should be able to browse others' creative works, share their own ideas via the share ideas form, participate in discussions, and interact with other users. Choose azure mist for the background; set all component colors to dark slate blue."
+  },
+  {
+    "name": "Wild Animal Spotter",
+    "application_type": "Streaming and Interactive Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "AI Integration",
+        "Real-time Features",
+        "E-commerce"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an animal spotter website that recognizes wild animals and sends SMS alerts. The website should have the functionality to identify different types of wild animals, and assign different color codes to each animal. Users should be able to set alert conditions, and when a specific animal is detected, the system will automatically send an SMS alert. Users should be able to browse detection records, view animal information, and set personalized alerts. Set misty rose as the body background and use firebrick for the UI."
+  },
+  {
+    "name": "Ringtone & Wallpaper Hub",
+    "application_type": "Streaming and Interactive Platforms",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "E-commerce",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a website for downloading ringtones and wallpapers, providing services for downloading ringtones and wallpapers. The website should have the functionality to download ringtones and wallpapers, allowing users to browse and search for ringtones and wallpapers, select and download the desired content, navigate to the user profile to view the download history, add ringtones to the collection for future reference, and categorize the contents by selecting a category from the menu. The website should also have categorization and search functions to help users quickly find the ringtones and wallpapers they need. Style all pages with a light goldenrod background and olive drab components."
+  },
+  {
+    "name": "Travel Booking Portal",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "API Integration",
+        "CRUD Operations"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an online travel booking website for booking train tickets, air tickets, and hotels. The website should have functionalities for searching, booking, payment, and order management. Users should be able to search and book train tickets, air tickets, and hotels, make online payments, and view order status. Use peach puff in the background layer and indian red for the component layer."
+  },
+  {
+    "name": "Europe Travel & Camping Explorer",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "Form Systems",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a travel and camping website and web app for Europe, showcasing tourist attractions and campsites across the continent. The website should have functionalities for searching, booking, and reviewing. Users should be able to browse tourist attractions and campsites in different countries and cities, book attractions and campsites of interest, and review the attractions and campsites they have visited. Establish light pink as the main background and medium violet red for the controls."
+  },
+  {
+    "name": "Car Rental Booking Platform",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "Form Systems",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a comprehensive car rental platform for booking car rental services. The platform should have a user-friendly interface, allowing users to easily browse and book car rental services. Users should be able to browse different types of cars, select rental dates and times, book selected cars, and view booking records. The platform should support multiple payment methods and provide order management functionality. Set the background to papaya whip, and apply dark orange to components."
+  },
+  {
+    "name": "Travel Ticket Booking Platform",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "Authentication",
+        "Real-time Features"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a minimalistic bus and railway ticket booking platform where users can search and book bus and railway tickets, view real-time seat availability and prices, make secure payments, and receive booking confirmations via email or SMS. The platform should have user account management features, including user registration, login, booking history, and ticket printing options. Additionally, the platform should have a responsive design that adapts to both mobile and desktop devices. Configure all backgrounds with snow and all components with dim gray."
+  },
+  {
+    "name": "Golf Travel Package Booker",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "Form Systems",
+        "CRUD Operations"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a golf travel package booking website that sells golf travel packages. The website should have functionalities for customer request handling, booking confirmation, online quotes, customer relationship management, and supplier management. Users can initiate requests through the website homepage form submission, and the system will collect information based on customer preferences and dynamically apply hotel, flight, transport, and golf conditions. Customers can confirm bookings online, and the system will generate digital vouchers and invoices. Assign whitesmoke to body backgrounds and dark cyan to main components."
+  },
+  {
+    "name": "Travel Expense Reimbursement System",
+    "application_type": "Travel Booking Portals",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "File Handling"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a travel reimbursement and payment system for employee travel expenses. The system should have functionalities for booking tickets, hotels, and trains, generating settlements, submitting reimbursement applications, and more. Users should be able to book tickets, hotels, and trains, generate settlements report, submit reimbursement applications, and view reimbursement status. Use white for container backgrounds and navy for component visuals."
+  }
+]

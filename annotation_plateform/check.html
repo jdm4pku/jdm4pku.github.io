@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据检查 - Chunk <span id="chunkId"></span></title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>数据检查 - Chunk <span id="chunkIdDisplay"></span></h1>
+            <div class="header-actions">
+                <a href="index.html" class="btn btn-secondary">返回首页</a>
+                <button class="btn btn-primary" onclick="exportChunk()">导出 Chunk</button>
+            </div>
+        </header>
+        
+        <main>
+            <div class="data-selector">
+                <label for="dataSelect">选择数据项：</label>
+                <select id="dataSelect" onchange="loadDataItem()">
+                    <option value="">请选择...</option>
+                </select>
+                <span id="dataCounter" class="counter"></span>
+            </div>
+            
+            <div id="dataEditor" class="data-editor" style="display: none;">
+                <div class="field-group">
+                    <label for="instructionField">Instruction:</label>
+                    <textarea id="instructionField" class="form-control" rows="4" placeholder="Instruction"></textarea>
+                </div>
+
+                <div class="field-group">
+                    <label for="nameField">Name:</label>
+                    <input type="text" id="nameField" class="form-control" placeholder="Name">
+                </div>
+                
+                <div class="field-group">
+                    <label for="initialReqField">Initial Requirements:</label>
+                    <textarea id="initialReqField" class="form-control" rows="3" placeholder="Initial requirements（当前为空）"></textarea>
+                </div>
+                
+                <div class="field-group">
+                    <label>URL (User Stories):</label>
+                    <div class="table-container">
+                        <table id="urlTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>用户故事</th>
+                                    <th>操作</th>
+                                </tr>
+                            </thead>
+                            <tbody id="urlTableBody">
+                                <!-- Rows will be added here -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <button class="btn btn-add" onclick="addUrlStory()">+ 添加用户故事</button>
+                </div>
+                
+                <div class="field-group">
+                    <label>Implicit Requirements:</label>
+                    <div class="table-container">
+                        <table id="implicitTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Aspect</th>
+                                    <th>Requirement Text</th>
+                                    <th>Corresponding User Story</th>
+                                    <th>操作</th>
+                                </tr>
+                            </thead>
+                            <tbody id="implicitTableBody">
+                                <!-- Rows will be added here -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <button class="btn btn-add" onclick="addImplicitRequirement()">+ 添加隐式需求</button>
+                </div>
+                
+                <div class="action-buttons">
+                    <button class="btn btn-primary" onclick="saveCurrentItem()">保存当前数据</button>
+                    <button class="btn btn-secondary" onclick="resetCurrentItem()">重置</button>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <!-- Modal for editing URL story -->
+    <div id="urlEditModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeUrlEditModal()">&times;</span>
+            <h2>编辑用户故事</h2>
+            <div class="field-group">
+                <label for="modalUrlStory">用户故事:</label>
+                <textarea id="modalUrlStory" class="form-control" rows="4" placeholder="输入用户故事"></textarea>
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-primary" onclick="saveUrlStory()">保存</button>
+                <button class="btn btn-secondary" onclick="closeUrlEditModal()">取消</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal for editing implicit requirement -->
+    <div id="editModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditModal()">&times;</span>
+            <h2>编辑隐式需求</h2>
+            <div class="field-group">
+                <label for="modalAspect">Aspect:</label>
+                <select id="modalAspect" class="form-control" onchange="handleAspectChange()">
+                    <option value="">请选择...</option>
+                    <option value="Interaction">Interaction</option>
+                    <option value="Content">Content</option>
+                    <option value="Style">Style</option>
+                    <option value="__custom__">自定义</option>
+                </select>
+                <input type="text" id="modalAspectCustom" class="form-control" style="display: none; margin-top: 8px;" placeholder="输入自定义 Aspect">
+            </div>
+            <div class="field-group">
+                <label for="modalRequirementText">Requirement Text:</label>
+                <textarea id="modalRequirementText" class="form-control" rows="4"></textarea>
+            </div>
+            <div class="field-group">
+                <label for="modalCorrespondingStory">Corresponding User Story:</label>
+                <textarea id="modalCorrespondingStory" class="form-control" rows="3"></textarea>
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-primary" onclick="saveImplicitRequirement()">保存</button>
+                <button class="btn btn-secondary" onclick="closeEditModal()">取消</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="check.js"></script>
+</body>
+</html>
+

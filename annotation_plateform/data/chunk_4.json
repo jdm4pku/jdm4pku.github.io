@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Shipping Industry News Portal",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Static Page Generation",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a news blog website for the shipping industry to publish news and company information. The website should have sections for news, company profiles, and events. Users should be able to browse news, company information, and events, and subscribe to newsletters. The website should have a backend management system that allows administrators to manage ad spaces. Implement styling with old lace for the background and rosy brown for components."
+  },
+  {
+    "name": "Agriculture Info Portal",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization",
+        "Media Display"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an agriculture-related website for displaying and managing agricultural information. The website should have functionalities for browsing agricultural news, viewing farm product information, and checking weather forecasts. Users should be able to browse agricultural-related news, view different types of farm product information, check local weather forecasts, and perform searches and filters. Apply theme using light cyan as background and cadet blue for elements."
+  },
+  {
+    "name": "Real-Time Culinary Guide",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization",
+        "Media Display"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a real-time culinary guide application to display restaurant and recipe information. The application should have functionalities for browsing restaurants, searching recipes, viewing reviews and ratings, and more. Users should be able to browse nearby restaurants, search for specific recipes, view other users' reviews and ratings, and add their own reviews and ratings. Color the background using lemon chiffon and set component styles to chocolate."
+  },
+  {
+    "name": "Family Memorial Portal",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "Data Visualization",
+        "API Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a family event portal website for publishing and storing obituaries, funeral arrangements, and multimedia memories. The website should have functionalities for obituary publishing, mortuary list, condolences, and statistics. Users should be able to publish and manage their own obituaries and funeral arrangements, view and leave messages on others' obituaries, and view statistical analysis. Use cornsilk for the outer layout and peru for UI blocks."
+  },
+  {
+    "name": "Environmental Warning System",
+    "application_type": "News and Information Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an environmental warning system website to display real-time weather and air quality data. The website should have a real-time update function, displaying the air quality index (AQI) for the past two weeks, and allowing users to compare pollution and air quality changes. Users should be able to browse current weather and air quality data, including temperature, humidity, and gas sensor data. Set primary background to azure mist and elements to dark slate blue."
+  },
+  {
+    "name": "Healthy Living Blog",
+    "application_type": "Personal Blog Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization",
+        "Static Page Generation"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a health blog website for publishing health-related articles and promoting healthy lifestyles. The website should have functionalities for publishing articles, commenting, searching, and categorizing. Users should be able to browse and search articles, post comments, and follow specific topics. Choose misty rose for global background and firebrick for all components."
+  },
+  {
+    "name": "Poetry Sharing Blog",
+    "application_type": "Personal Blog Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Static Page Generation",
+        "User Interaction"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a poetry blog website for displaying and sharing poetry content. The website should have functionalities for browsing poetry, searching poetry, posting poetry, and commenting on poetry. Users should be able to browse different types of poetry, search for specific poetry, post their own poetry, and comment on others' poetry. Apply light goldenrod for layout; use olive drab for buttons and cards."
+  },
+  {
+    "name": "Designer Portfolio Showcase",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Media Display"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a personal portfolio website to showcase design works. The website should have functionalities for showcasing works about the designer, and contact information. Users should be able to browse the designer's portfolio, learn about the designer's background and experience, and get in touch with the designer through contact information. Configure your theme with peach puff as background and indian red as component color."
+  },
+  {
+    "name": "Online CV Showcase",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please create a comprehensive CV website to display personal information and work experience. The website should have functionalities for displaying personal information, work experience, skills, education background, and projects. Users should be able to browse the CV, view work experience, understand skills and education background, and showcase personal projects. Use a light pink background and apply medium violet red to the UI components."
+  },
+  {
+    "name": "Personal Link Tree Manager",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "File Handling"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a link tree website for displaying and managing links. The website should have functionalities for adding, editing, and deleting links. Users should be able to create and manage their own link tree, including adding new links, editing existing links, deleting unnecessary links, and sharing their link tree with others through link tree's shareable link. Set overall background to papaya whip, then style components with dark orange."
+  },
+  {
+    "name": "Biography Showcase",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please create a biography website to display a person's life and achievements. The website should have functionalities to display basic information, life experiences, achievements, and honors. Users should be able to browse biographies, view detailed information, and search for related content. The website should have a search function, allowing users to quickly find relevant information. Assign snow as the background color and apply dim gray to all elements."
+  },
+  {
+    "name": "Team Portfolio Showcase",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Static Page Generation",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a webpage to showcase team projects and skills, including team introduction, project showcase, skill showcase, and contact information. Users should be able to browse team information, view project cases, understand team skills, and contact the team through the contact information. Initialize the background color with whitesmoke and component color with dark cyan."
+  },
+  {
+    "name": "Fitness Tracker Mini Program",
+    "application_type": "Personal Portfolio Sites",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "Big Data",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a fitness tracking mini-program for users to record and manage their fitness activities. The mini-program should have functionalities such as a fitness leaderboard, exercise recording, fitness diary, and a fitness statistics homepage. Users should be able to browse and record their own exercises, view the leaderboard, write a fitness diary, and track their own fitness data. Apply white to the canvas background and navy to all visible components."
+  },
+  {
+    "name": "Engineer Tool Info Hub",
+    "application_type": "Productivity Applications",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Authentication",
+        "Dynamic Content Rendering",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a website that provides tool information for engineers. The website should have user registration and login functionality, and be able to display information about various tools, including tool name, description, function, price, etc. Users should be able to search and filter tools, view detailed tool information, and be able to comment and rate tools. Declare ivory as the global background color and forest green for all UI pieces."
+  },
+  {
+    "name": "Online Calculation Portal",
+    "application_type": "Productivity Applications",
+    "Category": {
+      "primary_category": "Content Presentation",
+      "subcategories": [
+        "Dynamic Content Rendering",
+        "Data Visualization"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a computing task website for performing calculations. The website should have functionalities for inputting mathematical expressions, executing calculations, and displaying results. Users should be able to input mathematical expressions, select the calculation type (e.g., \"Basic Arithmetic\"), execute the calculation, and view the calculation results. Use mint cream as the screen background and teal for component highlights."
+  },
+  {
+    "name": "Online Diagram Maker",
+    "application_type": "Productivity Applications",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Real-time Features",
+        "Form Systems",
+        "AI Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a modern diagram maker website for creating and editing diagrams. The website should have functionalities for creating new diagrams, editing existing diagrams, adding and removing diagram elements, and adjusting layout and style. Users should be able to choose from different diagram types, such as flowcharts, organizational charts, and mind maps, and use a drag-and-drop interface to add and arrange diagram elements. Select ghost white for layout background and slate gray for component details."
+  },
+  {
+    "name": "Smart To-Do Manager",
+    "application_type": "Productivity Applications",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "User Interaction"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement an advanced to-do list web application where users can create, edit, and delete to-do items. The application should have functionalities for adding new tasks, marking tasks as completed, deleting tasks, filtering tasks, and searching tasks. Users should be able to browse all to-do items, create new tasks, edit existing tasks, and delete unnecessary tasks. Set all pages to have a lavender background and indigo components."
+  },
+  {
+    "name": "Cross-Platform HTML Editor",
+    "application_type": "Productivity Applications",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "Form Systems",
+        "AI Integration",
+        "Data Management"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a cross-platform HTML editor with live preview and code editing functionality. The editor should allow users to switch between HTML code and text editing modes and automatically convert to HTML. The editor should have project management capabilities, allowing users to organize multiple HTML documents, images, and other files. The editor should also have features such as syntax highlighting, saving template pages, and a basic user guide. Set the background color to honeydew and the component color to dark olive green."
+  },
+  {
+    "name": "Food Distribution Portal",
+    "application_type": "Project Management Tools",
+    "Category": {
+      "primary_category": "User Interaction",
+      "subcategories": [
+        "E-commerce",
+        "Authentication",
+        "CRUD Operations"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a food distribution website for managing and distributing food. The website should have functionalities for food donation, food distribution, and volunteer management. Users should be able to browse food donation information, apply for food distribution, view volunteer information, and manage their own accounts. Use azure for the background and midnight blue for components."
+  },
+  {
+    "name": "Detective Case Manager",
+    "application_type": "Project Management Tools",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "API Integration",
+        "Big Data"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a detective agency case management app for managing cases and tracking work hours. The app should have functionalities for real-time reporting, data collection and storage, work hours tracking, estimated expense sheet generation, and service assignment sheet. Users should be able to browse case information, submit real-time reports, log work hours, and view estimated expense sheets and service assignment sheets. Apply beige as the background; style all components with saddle brown."
+  },
+  {
+    "name": "Risk Assessment Portal",
+    "application_type": "Project Management Tools",
+    "Category": {
+      "primary_category": "Data Management",
+      "subcategories": [
+        "CRUD Operations",
+        "Data Visualization",
+        "API Integration"
+      ]
+    },
+    "initial_requirements": "",
+    "Implicit Requirements": [],
+    "URL": [],
+    "instruction": "Please implement a risk assessment website for conducting risk assessments and generating reports. The website should have functionalities for selecting risk assessment items, auto-populating data, generating charts, and creating reports. Users should be able to select risk assessment items, and the website will automatically fill in relevant data from a background database, generate charts, and create reports. The website should also have a subscription feature, allowing users to access the risk assessment tool. Define the background as alice blue and components as steel blue."
+  }
+]

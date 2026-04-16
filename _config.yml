@@ -67,6 +67,9 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - annotation_plateform/start_server.sh
+  - annotation_plateform/process_data.py
+  - annotation_plateform/README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -95,6 +98,7 @@ keep_files:
   - .git
   - .svn
   - re-skills
+  - annotation_plateform
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
