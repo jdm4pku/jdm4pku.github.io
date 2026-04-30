@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer" has been accepted by [ICML'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "IntentCoding: Amplifying User Intent in Code Generation" has been accepted by [ACL'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree" has been accepted by [TOSEM'26]() 
 - *2026.01*: &nbsp;🎉🎉 Our paper "Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding" has been accepted by [WWW'26](https://www2026.thewebconf.org/) 
@@ -40,7 +41,6 @@ redirect_from:
 
 # 📝 Publications
 - ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
-- ``arXiv`` [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](), Yifan Zhang, Wei Bi, Kechi Zhang, **Dongming Jin**, Jie Fu, Zhi Jin.
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 <!-- - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo. -->
 - ``TOSEM'26`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation], **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Xiaohong Chen, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
@@ -49,6 +49,7 @@ redirect_from:
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. <u>*(Under Minor Revision)*</u> (<span style="color:red">CCF-A</span>)
 
 #### 2026
+- ``ICML'26`` [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](), Yifan Zhang, Wei Bi, Kechi Zhang, **Dongming Jin**, Jie Fu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``ACL'26`` [IntentCoding: Amplifying User Intent in Code Generation](https://www.arxiv.org/abs/2602.00066), Zheng Fang, Yihong Dong, Lili Mou, **Dongming Jin**, Zhi Jin, Ge Li. (<span style="color:red">CCF-A</span>) 
 - ``TOSEM'26`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan. (<span style="color:red">CCF-A</span>) 
 - ``WWW'26`` [Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding](https://arxiv.org/abs/2508.02426), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Yichi Zhang, Haoran Duan, Xuan Zhang, Zhengwei Tao, Nyima Tash. (<span style="color:red">CCF-A</span>)
