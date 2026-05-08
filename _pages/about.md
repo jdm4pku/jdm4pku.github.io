@@ -24,7 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 17%.</span>
+- *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 14%.</span>
 - *2026.05*: &nbsp;🎉🎉 Our paper "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer" has been accepted by [ICML'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "IntentCoding: Amplifying User Intent in Code Generation" has been accepted by [ACL'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree" has been accepted by [TOSEM'26]() 
