@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 17%.</span>
 - *2026.05*: &nbsp;🎉🎉 Our paper "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer" has been accepted by [ICML'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "IntentCoding: Amplifying User Intent in Code Generation" has been accepted by [ACL'26]() 
 - *2026.04*: &nbsp;🎉🎉 Our paper "AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree" has been accepted by [TOSEM'26]() 
@@ -49,6 +50,7 @@ redirect_from:
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. <u>*(Under Minor Revision)*</u> (<span style="color:red">CCF-A</span>)
 
 #### 2026
+- ``RE'26`` [From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology](https://arxiv.org/abs/2605.05828), **Dongming Jin**, Zhi Jin, Yaotian Yang, Linyu Li, Zheng Fang, Yuanpeng He, Wenchun Jing, Xiaohong Chen. (<span style="color:red">CCF-B</span>)
 - ``ICML'26`` [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](), Yifan Zhang, Wei Bi, Kechi Zhang, **Dongming Jin**, Jie Fu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 - ``ACL'26`` [IntentCoding: Amplifying User Intent in Code Generation](https://www.arxiv.org/abs/2602.00066), Zheng Fang, Yihong Dong, Lili Mou, **Dongming Jin**, Zhi Jin, Ge Li. (<span style="color:red">CCF-A</span>) 
 - ``TOSEM'26`` [AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree](), Wei Liu, Bowen Luo, Xiaohong Chen, **Dongming Jin**, Zhi Jin, Chengfei Yuan. (<span style="color:red">CCF-A</span>) 
