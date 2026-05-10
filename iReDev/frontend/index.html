@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iReDev — AI Requirements Development Platform</title>
+  <link rel="stylesheet" href="/static/css/style.css?v=2">
+  <!-- Markdown 渲染 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.1/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+</head>
+<body>
+  <!-- ═══════════ 登录/注册弹窗 ═══════════ -->
+  <div class="modal-overlay" id="authModal" style="display: none;">
+    <div class="modal auth-modal">
+      <button class="auth-modal-close" id="closeAuthModal">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+      <div class="auth-modal-header">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--c-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+        </svg>
+        <h2>Welcome to iReDev</h2>
+      </div>
+      <!-- Tab 切换 -->
+      <div class="auth-tabs">
+        <button class="auth-tab active" id="tabLogin" data-tab="login">Log In</button>
+        <button class="auth-tab" id="tabRegister" data-tab="register">Sign Up</button>
+      </div>
+      <!-- 登录表单 -->
+      <div id="loginForm" class="auth-form active">
+        <div class="form-group">
+          <label for="loginUsername">Username</label>
+          <input type="text" id="loginUsername" placeholder="Enter username" autocomplete="username" />
+        </div>
+        <div class="form-group">
+          <label for="loginPassword">Password</label>
+          <input type="password" id="loginPassword" placeholder="Enter password" autocomplete="current-password" />
+        </div>
+        <div class="auth-error" id="loginError"></div>
+        <button class="btn-primary auth-submit" id="loginBtn">Log In</button>
+        <p class="auth-switch">Don't have an account? <a href="#" id="showRegister">Sign up now</a></p>
+      </div>
+      <!-- 注册表单 -->
+      <div id="registerForm" class="auth-form">
+        <div class="form-group">
+          <label for="regUsername">Username</label>
+          <input type="text" id="regUsername" placeholder="2-30 characters" autocomplete="username" />
+        </div>
+        <div class="form-group">
+          <label for="regPassword">Password</label>
+          <input type="password" id="regPassword" placeholder="At least 4 characters" autocomplete="new-password" />
+        </div>
+        <div class="form-group">
+          <label for="regPasswordConfirm">Confirm Password</label>
+          <input type="password" id="regPasswordConfirm" placeholder="Re-enter password" autocomplete="new-password" />
+        </div>
+        <div class="auth-error" id="registerError"></div>
+        <button class="btn-primary auth-submit" id="registerBtn">Sign Up</button>
+        <p class="auth-switch">Already have an account? <a href="#" id="showLogin">Log in</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════ 主应用界面 ═══════════ -->
+  <div id="app" class="app-layout" style="display: none;">
+
+    <!-- ═══════════ 左侧边栏：会话历史 ═══════════ -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+          </svg>
+          <span>iReDev</span>
+        </div>
+      </div>
+
+      <button class="new-project-btn" id="newProjectBtn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+        </svg>
+        New Project
+      </button>
+
+      <div class="sidebar-section-label">Session History</div>
+      <div class="session-list" id="sessionList">
+        <div class="empty-state">No sessions yet</div>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="sidebar-user-bar">
+          <span class="user-avatar" id="userAvatar">U</span>
+          <span class="user-name" id="sidebarUsername">User</span>
+          <div class="sidebar-user-actions">
+            <button class="icon-btn" id="settingsBtn" title="Settings">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+              </svg>
+            </button>
+            <button class="icon-btn" id="logoutBtn" title="Log Out">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <span class="version">iReDev v1.0</span>
+      </div>
+    </aside>
+
+    <!-- ═══════════ 中间：对话窗口 ═══════════ -->
+    <main class="chat-area" id="chatArea">
+      <!-- 欢迎页（无活跃会话时显示） -->
+      <div class="welcome-screen" id="welcomeScreen">
+        <!-- 未登录时的顶部导航栏 -->
+        <div class="welcome-topbar" id="welcomeTopbar">
+          <div class="welcome-topbar-logo">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--c-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+            </svg>
+            <span>iReDev</span>
+          </div>
+          <div class="welcome-topbar-actions">
+            <button class="btn-ghost" id="topLoginBtn">Log In</button>
+            <button class="btn-primary btn-sm" id="topRegisterBtn">Sign Up</button>
+          </div>
+        </div>
+        <div class="welcome-content">
+          <div class="welcome-icon">
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+            </svg>
+          </div>
+          <h1>Welcome to iReDev</h1>
+          <p>AI-Powered Intelligent Requirements Development Platform</p>
+          <p class="welcome-desc">
+            Automate the complete requirements development process from customer interviews to SRS documents through multi-agent collaboration.<br>
+            <span class="welcome-desc-loggedin">Click "New Project" in the top left to get started.</span>
+            <span class="welcome-desc-guest">Log in to create a project and start your intelligent requirements development journey.</span>
+          </p>
+          <!-- 未登录时的行动按钮 -->
+          <div class="welcome-auth-actions" id="welcomeAuthActions">
+            <button class="btn-primary btn-lg" id="welcomeLoginBtn">Log In to Get Started</button>
+            <button class="btn-outline btn-lg" id="welcomeRegisterBtn">Sign Up Free</button>
+          </div>
+          <div class="feature-cards">
+            <div class="feature-card">
+              <span class="feature-emoji">🎙</span>
+              <strong>Smart Interview</strong>
+              <p>AI generates structured interview questions</p>
+            </div>
+            <div class="feature-card">
+              <span class="feature-emoji">📝</span>
+              <strong>Auto Document Generation</strong>
+              <p>BRD / UserRD / SyRS / SRS</p>
+            </div>
+            <div class="feature-card">
+              <span class="feature-emoji">🔍</span>
+              <strong>Quality Review</strong>
+              <p>9-dimension auto review + iterative revision</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 对话界面（有活跃会话时显示） -->
+      <div class="chat-container" id="chatContainer" style="display: none;">
+        <!-- 顶部栏 -->
+        <div class="chat-header">
+          <div class="chat-header-left">
+            <button class="sidebar-toggle" id="sidebarToggle">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+              </svg>
+            </button>
+            <h2 id="chatProjectName">Project Name</h2>
+          </div>
+          <div class="chat-header-right">
+            <span class="status-badge" id="statusBadge">
+              <span class="status-dot"></span>
+              <span class="status-text">Ready</span>
+            </span>
+            <button class="artifact-toggle" id="artifactToggle" title="Artifacts">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+              </svg>
+              <span class="artifact-count" id="artifactCountBadge" style="display:none;">0</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- 消息流 -->
+        <div class="messages-container" id="messagesContainer">
+          <div class="messages-inner" id="messagesList"></div>
+        </div>
+
+        <!-- 输入区域 -->
+        <div class="input-area" id="inputArea">
+          <!-- 候选回答区 -->
+          <div class="candidates-bar" id="candidatesBar" style="display: none;">
+            <div class="candidates-label">AI suggested responses (click to fill, edit and send):</div>
+            <div class="candidates-list" id="candidatesList"></div>
+          </div>
+          <div class="input-row">
+            <textarea
+              id="messageInput"
+              placeholder="Type a message..."
+              rows="1"
+              disabled
+            ></textarea>
+            <button class="send-btn" id="sendBtn" disabled title="Send">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- ═══════════ 右侧：制品池 ═══════════ -->
+    <aside class="artifact-panel" id="artifactPanel">
+      <div class="artifact-panel-header">
+        <h3>Artifacts</h3>
+        <button class="close-panel-btn" id="closeArtifactPanel">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- 流水线进度 -->
+      <div class="pipeline-progress">
+        <div class="progress-label">
+          <span>Pipeline Progress</span>
+          <span id="progressPercent">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <!-- 制品列表 -->
+      <div class="artifact-list" id="artifactList">
+        <div class="artifact-group">
+          <div class="artifact-group-title">Documents</div>
+          <div class="artifact-group-items" id="docArtifacts">
+            <div class="empty-artifact">No documents yet</div>
+          </div>
+        </div>
+        <div class="artifact-group">
+          <div class="artifact-group-title">Models</div>
+          <div class="artifact-group-items" id="modelArtifacts">
+            <div class="empty-artifact">No models yet</div>
+          </div>
+        </div>
+        <div class="artifact-group">
+          <div class="artifact-group-title">Review Reports</div>
+          <div class="artifact-group-items" id="reviewArtifacts">
+            <div class="empty-artifact">No review reports yet</div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- ═══════════ 制品查看器（模态框） ═══════════ -->
+    <div class="artifact-viewer-overlay" id="artifactViewerOverlay" style="display: none;">
+      <div class="artifact-viewer">
+        <div class="artifact-viewer-header">
+          <h3 id="artifactViewerTitle">Artifact Name</h3>
+          <button class="close-viewer-btn" id="closeViewerBtn">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+        <div class="artifact-viewer-content" id="artifactViewerContent">
+          <div class="loading-spinner"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════ 新建项目对话框 ═══════════ -->
+    <div class="modal-overlay" id="newProjectModal" style="display: none;">
+      <div class="modal">
+        <h3>New Project</h3>
+        <p>Enter a project name to start the requirements development process</p>
+        <input
+          type="text"
+          id="projectNameInput"
+          placeholder="e.g., Smart Home Control System"
+          autofocus
+        />
+        <div class="language-select-group">
+          <label for="languageSelect">Output Language</label>
+          <div class="language-options">
+            <label class="language-option">
+              <input type="radio" name="language" value="zh" id="langZh" checked />
+              <span class="language-label">Chinese</span>
+            </label>
+            <label class="language-option">
+              <input type="radio" name="language" value="en" id="langEn" />
+              <span class="language-label">🇺🇸 English</span>
+            </label>
+          </div>
+        </div>
+        <div class="language-select-group">
+          <label>Process Control Mode</label>
+          <div class="language-options">
+            <label class="language-option">
+              <input type="radio" name="controlMode" value="post" id="modePost" checked />
+              <span class="language-label">Auto Process</span>
+            </label>
+            <label class="language-option">
+              <input type="radio" name="controlMode" value="step" id="modeStep" />
+              <span class="language-label">Step-by-Step Review</span>
+            </label>
+          </div>
+          <div class="control-mode-hint" id="controlModeHint">
+            <span id="hintPost">Fully automated. Review artifacts after the process completes.</span>
+            <span id="hintStep" style="display:none;">Pauses after key artifacts are generated for your review and feedback.</span>
+          </div>
+        </div>
+        <div class="modal-actions">
+          <button class="btn-secondary" id="cancelNewProject">Cancel</button>
+          <button class="btn-primary" id="confirmNewProject">Create & Start</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════ 设置对话框 ═══════════ -->
+    <div class="modal-overlay" id="settingsModal" style="display: none;">
+      <div class="modal settings-modal">
+        <h3>LLM Settings</h3>
+        <p>Configure your LLM API connection (leave empty to use system defaults)</p>
+        <div class="form-group">
+          <label for="settingsApiKey">API Key</label>
+          <div class="input-with-toggle">
+            <input type="password" id="settingsApiKey" placeholder="sk-..." autocomplete="off" />
+            <button class="toggle-visibility-btn" id="toggleApiKeyVisibility" type="button" title="Show/Hide">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="settingsBaseUrl">Base URL</label>
+          <input type="text" id="settingsBaseUrl" placeholder="e.g., https://api.openai.com/v1" />
+        </div>
+        <div class="form-group">
+          <label for="settingsModel">Model</label>
+          <input type="text" id="settingsModel" placeholder="e.g., gpt-4o-mini" />
+        </div>
+        <div class="settings-hint">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/>
+          </svg>
+          <span>Settings take effect on the next project creation. Supports OpenAI-compatible API.</span>
+        </div>
+        <div class="modal-actions">
+          <button class="btn-secondary" id="cancelSettings">Cancel</button>
+          <button class="btn-primary" id="saveSettings">Save Settings</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/app.js?v=2"></script>
+</body>
+</html>
