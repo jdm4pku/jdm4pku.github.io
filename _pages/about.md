@@ -40,6 +40,17 @@ redirect_from:
 - *2024.01*: &nbsp;🎉🎉 Our paper "ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models" has been accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/).
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
+# 👥 Team
+Our group currently includes three students: one Ph.D. student and two undergraduates. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
+
+Now
+- Dongming Jin (靳东明): third year Ph.D student in Peking University
+- Yaotian Yang (杨尧天): third year undergraduate in Beijing Forestry University
+- Zhenliang Li (李振梁): third year undergraduate in Beijing Forestry University
+
+
+
+
 # 📝 Publications
 - ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
