@@ -43,7 +43,7 @@ redirect_from:
 # 👥 Team
 Our group currently includes three students: one Ph.D. student and two undergraduates. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
 
-Now
+**Now**
 - Dongming Jin (靳东明): third year Ph.D student in Peking University
 - Yaotian Yang (杨尧天): third year undergraduate in Beijing Forestry University
 - Zhenliang Li (李振梁): third year undergraduate in Beijing Forestry University
