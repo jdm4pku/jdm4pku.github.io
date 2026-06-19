@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper "FallibleUser: An Imperfect User Agent for Realistic Evaluation of Interactive AI Systems" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
 - *2026.06*: &nbsp;🎉🎉 Our paper "iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development" has been accepted by [Internetware'26](https://conf.researchr.org/home/internetware-2026). 
 - *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 14%.</span>
 - *2026.05*: &nbsp;🎉🎉 Our paper "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer" has been accepted by [ICML'26]() 
@@ -51,7 +52,6 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 
 
-
 # 📝 Publications
 - ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
@@ -62,6 +62,8 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. <u>*(Under Minor Revision)*</u> (<span style="color:red">CCF-A</span>)
 
 #### 2026
+- ``ASE'26`` [FallibleUser: An Imperfect 
+User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang, Zhi Jin, **Dongming Jin**,  Xiaohong Chen. (<span style="color:red">CCF-A</span>)
 - ``Internetware'26`` [iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development](), **Dongming Jin**, Zhi Jin, Yaotian Yang, Jia Li, Xiaohong Chen. (<span style="color:red">CCF-C</span>)
 - ``RE'26`` [From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology](https://arxiv.org/abs/2605.05828), **Dongming Jin**, Zhi Jin, Yaotian Yang, Linyu Li, Zheng Fang, Yuanpeng He, Wenchun Jing, Xiaohong Chen. (<span style="color:red">CCF-B</span>)
 - ``ICML'26`` [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](), Yifan Zhang, Wei Bi, Kechi Zhang, **Dongming Jin**, Jie Fu, Zhi Jin. (<span style="color:red">CCF-A</span>)
