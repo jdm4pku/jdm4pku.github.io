@@ -114,3 +114,4 @@ User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang,
 # 🌟 Academic Service
 * PC Member: QRS 2024
 * PC Member: APSEC 2025
+* PC Member: APSEC 2026
