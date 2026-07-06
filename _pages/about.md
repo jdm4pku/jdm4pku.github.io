@@ -53,7 +53,8 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 
 # 📝 Publications
-- ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
+- ``arXiv`` [ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711), Zheng Fang, **Dongming Jin**, Yihong Dong, Yongmin Li, Kechi Zhang, Zhi Jin, Ge Li
+- ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 <!-- - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo. -->
 - ``TOSEM'26`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation](https://arxiv.org/abs/2602.18306), **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Xiaohong Chen, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
