@@ -62,7 +62,7 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 
 #### 2026
-- ``MM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
+- ``ACMMM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [FallibleUser: An Imperfect 
 User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang, Zhi Jin, **Dongming Jin**,  Xiaohong Chen. (<span style="color:red">CCF-A</span>)
 - ``Internetware'26`` [iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development](), **Dongming Jin**, Zhi Jin, Yaotian Yang, Jia Li, Xiaohong Chen. (<span style="color:red">CCF-C</span>)
