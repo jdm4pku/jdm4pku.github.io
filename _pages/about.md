@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper "When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs" has been accepted by [ACM MM'26](),
 - *2026.06*: &nbsp;🎉🎉 Our paper "FallibleUser: An Imperfect User Agent for Realistic Evaluation of Interactive AI Systems" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
 - *2026.06*: &nbsp;🎉🎉 Our paper "iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development" has been accepted by [Internetware'26](https://conf.researchr.org/home/internetware-2026). 
 - *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 14%.</span>
@@ -54,15 +55,14 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 # 📝 Publications
 - ``arXiv`` [ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711), Zheng Fang, **Dongming Jin**, Yihong Dong, Yongmin Li, Kechi Zhang, Zhi Jin, Ge Li
-- ``arXiv`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
-<!-- - ``arXiv`` [A System Model Generation Benchmark from Natural Language Requirements](https://www.arxiv.org/abs/2508.03215), **Dongming Jin**, Zhi Jin, Linyu Li, Zheng Fang, Jia Li, Xiaohong Chen, Yixing Luo. -->
 - ``TOSEM'26`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation](https://arxiv.org/abs/2602.18306), **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Xiaohong Chen, Hongbin Xiao. (<span style="color:red">CCF-A</span>)
 - ``TSE'25`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang. (<span style="color:red">CCF-A</span>)
 <!-- - ``TOSEM'25`` [Automated Concern Extraction from Textual Requirements of Cyber-physical Systems: A Multi-solution Study](https://arxiv.org/abs/2510.19237), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Shengxin Zhao, Chunhui Wang, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>) -->
 - ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin. (<span style="color:red">CCF-A</span>)
 
 #### 2026
+- ``MM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [FallibleUser: An Imperfect 
 User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang, Zhi Jin, **Dongming Jin**,  Xiaohong Chen. (<span style="color:red">CCF-A</span>)
 - ``Internetware'26`` [iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development](), **Dongming Jin**, Zhi Jin, Yaotian Yang, Jia Li, Xiaohong Chen. (<span style="color:red">CCF-C</span>)
