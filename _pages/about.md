@@ -57,10 +57,10 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 # 📝 Publications
 - ``arXiv`` [ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711), Zheng Fang, **Dongming Jin**, Yihong Dong, Yongmin Li, Kechi Zhang, Zhi Jin, Ge Li
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
+- ``arxiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.  
 - ``TOSEM'26`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation](https://arxiv.org/abs/2602.18306), **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Xiaohong Chen, Hongbin Xiao.  <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
 - ``TSE'25`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
-<!-- - ``TOSEM'25`` [Automated Concern Extraction from Textual Requirements of Cyber-physical Systems: A Multi-solution Study](https://arxiv.org/abs/2510.19237), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Shengxin Zhao, Chunhui Wang, Hongbin Xiao. <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>) -->
-- ``TOSEM'25`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.  <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
+
 
 #### 2026
 - ``IEEE TASLP'26`` [A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion](), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Huanyu Liu, Haoran Duan, Xuan Zhang, Jin Zhang, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-B</span>)
