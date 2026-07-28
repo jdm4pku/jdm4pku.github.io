@@ -63,6 +63,7 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 
 #### 2026
+- ``ASE'26`` [Aligning User Requirement with Large Language Model in Code Generation](https://arxiv.org/pdf/2604.16198), Jia Li, Ruiqi Bai, Yangkang Luo, Yiran Zhang, Wentao Yang, Zeyu Sun, Tiankuo Zhao, **Dongming Jin**, Lei Li, Zhi Jin.  (<span style="color:red">CCF-A</span>)
 - ``IEEE TASLP'26`` [A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion](), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Huanyu Liu, Haoran Duan, Xuan Zhang, Jin Zhang, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-B</span>)
 - ``ACMMM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [FallibleUser: An Imperfect 
