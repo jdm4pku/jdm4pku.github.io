@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper "Aligning User Requirement with Large Language Model in Code Generation" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion" has been accepted by [IEEE TASLP'26]().
 - *2026.07*: &nbsp;🎉🎉 Our paper "When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs" has been accepted by [ACM MM'26]().
 - *2026.06*: &nbsp;🎉🎉 Our paper "FallibleUser: An Imperfect User Agent for Realistic Evaluation of Interactive AI Systems" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
