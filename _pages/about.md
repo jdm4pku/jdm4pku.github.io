@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper "A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs" has been accepted by [TSE'26](). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "Aligning User Requirement with Large Language Model in Code Generation" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion" has been accepted by [IEEE TASLP'26]().
 - *2026.07*: &nbsp;🎉🎉 Our paper "When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs" has been accepted by [ACM MM'26]().
@@ -60,10 +61,10 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 - ``arxiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.  
 - ``TOSEM'26`` [ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation](https://arxiv.org/abs/2602.18306), **Dongming Jin**, Zhi Jin, Zheng Fang, Linyu Li, Yaotian Yang, Xiaohong Chen, Hongbin Xiao.  <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
-- ``TSE'25`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  <u>*(Under Review)*</u> (<span style="color:red">CCF-A</span>)
 
 
 #### 2026
+- ``TSE'25`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [Aligning User Requirement with Large Language Model in Code Generation](https://arxiv.org/pdf/2604.16198), Jia Li, Ruiqi Bai, Yangkang Luo, Yiran Zhang, Wentao Yang, Zeyu Sun, Tiankuo Zhao, **Dongming Jin**, Lei Li, Zhi Jin.  (<span style="color:red">CCF-A</span>)
 - ``IEEE TASLP'26`` [A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion](), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Huanyu Liu, Haoran Duan, Xuan Zhang, Jin Zhang, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-B</span>)
 - ``ACMMM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
