@@ -51,6 +51,7 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 **Now**
 - Dongming Jin (靳东明): third year Ph.D student in Peking University
+- Ziheng Jiang (江子恒): third year master student in Hong Kong University
 - Yaotian Yang (杨尧天): third year undergraduate in Beijing Forestry University
 - Zhenliang Li (李振梁): third year undergraduate in Beijing Forestry University
 
