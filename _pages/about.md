@@ -58,6 +58,7 @@ Our group currently includes three students: one Ph.D. student and two undergrad
 
 
 # 📝 Publications
+- ``arXiv`` [Practice Makes Perfect: Evolving Requirements Interviewer Agents via Skill Accumulation](), Dongming Jin, Zhi Jin, Yaotian Yang, Linyu Li, Zheng Fang, Yuanpeng He, Jia Li, Xiaohong Chen. 
 - ``arXiv`` [ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711), Zheng Fang, **Dongming Jin**, Yihong Dong, Yongmin Li, Kechi Zhang, Zhi Jin, Ge Li
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 - ``arxiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.  
