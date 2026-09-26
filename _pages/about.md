@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About me
 - I am a third-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I am a visiting researcher at Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). In addition, I collaborate closely with Prof. [Xiaohong Chen]() in East China Normal University.
 - I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
-- My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering. 
+- My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering. I have published 10+ papers at the top international conferences and journals such as TSE, TOSEM, ICSE, ASE, ICML, ACL. 
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
@@ -47,7 +47,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 👥 Team
-Our group currently includes four students: two Ph.D. student and two undergraduates. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
+Our group currently includes four students: two Ph.D. students and three master students. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
 
 **Now**
 - Dongming Jin (靳东明): third year Ph.D student in Peking University
@@ -55,6 +55,7 @@ Our group currently includes four students: two Ph.D. student and two undergradu
 - Ziheng Jiang (江子恒): third year master student in Hong Kong University
 - Yaotian Yang (杨尧天): zero year master student in Nanjing University
 - Xingchen Li (李星辰): first year master student in Nanjing University
+- Wenhui Ruan (阮文辉): third year undergraduate in South China Agricultural University
 
 
 **Previous**
