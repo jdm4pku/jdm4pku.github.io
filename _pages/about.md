@@ -53,7 +53,8 @@ Our group currently includes four students: two Ph.D. student and two undergradu
 - Dongming Jin (靳东明): third year Ph.D student in Peking University
 - Zheng Fang (房正): third year Ph.D student in Peking University
 - Ziheng Jiang (江子恒): third year master student in Hong Kong University
-- Yaotian Yang (杨尧天): third year undergraduate in Beijing Forestry University
+- Yaotian Yang (杨尧天): zero year master student in Nanjing University
+- Xingchen Li (李星辰): first year master student in Nanjing University
 
 
 **Previous**
@@ -70,7 +71,7 @@ Our group currently includes four students: two Ph.D. student and two undergradu
 
 
 #### 2026
-- ``TSE'25`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  (<span style="color:red">CCF-A</span>)
+- ``TSE'26`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [Aligning User Requirement with Large Language Model in Code Generation](https://arxiv.org/pdf/2604.16198), Jia Li, Ruiqi Bai, Yangkang Luo, Yiran Zhang, Wentao Yang, Zeyu Sun, Tiankuo Zhao, **Dongming Jin**, Lei Li, Zhi Jin.  (<span style="color:red">CCF-A</span>)
 - ``IEEE TASLP'26`` [A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion](), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Huanyu Liu, Haoran Duan, Xuan Zhang, Jin Zhang, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-B</span>)
 - ``ACMMM'26`` [When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2604.02778), Linyu Li, Zhi Jin, Yichi Zhang, **Dongming Jin**, Yuanpeng He, Haoran Duan, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-A</span>)
