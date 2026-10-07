@@ -24,7 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
+- *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded <span style="color:red">the National Scholarship (Ph.D Students).</span> This is my fourth National Scholarship.
 - *2026.09*: &nbsp;🎉🎉 Our paper "BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates" has been accepted by [NeurIPS'26]()
 - *2026.08*: &nbsp;🎉🎉 Our paper "A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs" has been accepted by [TSE'26](). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "Aligning User Requirement with Large Language Model in Code Generation" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
