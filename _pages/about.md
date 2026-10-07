@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-- I am a third-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I am a visiting researcher at Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). In addition, I collaborate closely with Prof. [Xiaohong Chen]() in East China Normal University.
+- I am a four-year Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University(PKU)](https://www.pku.edu.cn/). My supervisor is Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). I expect to graduate in July 2028. Now I am a visiting researcher at Wuhan University, mentored by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl). In addition, I collaborate closely with Prof. [Xiaohong Chen]() in East China Normal University.
 - I received my Bachelor's Degree in Computer Science at [XiDian University](https://www.xidian.edu.cn/) in 2023.
 - My research interests mainly focus on Requirements Engineering, Large Language Models, and AI for Software Engineering. I have published 10+ papers at the top international conferences and journals such as TSE, TOSEM, ICSE, ASE, ICML, ACL. 
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
+- *2026.09*: &nbsp;🎉🎉 Our paper "BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates" has been accepted by [NeurIPS'26]()
 - *2026.08*: &nbsp;🎉🎉 Our paper "A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs" has been accepted by [TSE'26](). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "Aligning User Requirement with Large Language Model in Code Generation" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
 - *2026.07*: &nbsp;🎉🎉 Our paper "A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion" has been accepted by [IEEE TASLP'26]().
@@ -56,6 +58,7 @@ Our group currently includes four students: two Ph.D. students and three master 
 - Yaotian Yang (杨尧天): zero year master student in Nanjing University
 - Xingchen Li (李星辰): first year master student in Nanjing University
 - Wenhui Ruan (阮文辉): third year undergraduate in South China Agricultural University
+- Jiawen Cai (蔡佳文): third year undergraduate in Minzu University of China
 
 
 **Previous**
