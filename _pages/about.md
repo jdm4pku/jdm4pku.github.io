@@ -57,6 +57,7 @@ Our group currently includes four students: two Ph.D. students and three master 
 - Ziheng Jiang (江子恒): third year master student in Hong Kong University
 - Yaotian Yang (杨尧天): zero year master student in Nanjing University
 - Xingchen Li (李星辰): first year master student in Nanjing University
+- Hao Gao (高昊): third year undergraduate in Tsinghua University 
 - Wenhui Ruan (阮文辉): third year undergraduate in South China Agricultural University
 - Jiawen Cai (蔡佳文): third year undergraduate in Minzu University of China
 
