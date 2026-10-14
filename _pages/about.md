@@ -49,7 +49,7 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
 
 # 👥 Team
-Our group currently includes four students: two Ph.D. students and three master students. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
+Our group currently includes four students: two Ph.D. students, four master students, and three undergraduates. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
 
 **Now**
 - Dongming Jin (靳东明): third year Ph.D student in Peking University
@@ -57,6 +57,7 @@ Our group currently includes four students: two Ph.D. students and three master 
 - Ziheng Jiang (江子恒): third year master student in Hong Kong University
 - Yaotian Yang (杨尧天): zero year master student in Nanjing University
 - Xingchen Li (李星辰): first year master student in Nanjing University
+- Tong Yu (禹潼): zero year Ph.D student in Beijing Forestry University
 - Hao Gao (高昊): third year undergraduate in Tsinghua University 
 - Wenhui Ruan (阮文辉): third year undergraduate in South China Agricultural University
 - Jiawen Cai (蔡佳文): third year undergraduate in Minzu University of China
