@@ -59,9 +59,6 @@ Our group currently includes four students: two Ph.D. students, four master stud
 - Xingchen Li (李星辰): first year master student in Nanjing University
 - Tong Yu (禹潼): zero year Ph.D student in Beijing Forestry University
 - Hao Gao (高昊): third year undergraduate in Tsinghua University 
-- Wenhui Ruan (阮文辉): third year undergraduate in South China Agricultural University
-- Jiawen Cai (蔡佳文): third year undergraduate in Minzu University of China
-
 
 **Previous**
 - Yaotian Yang (杨尧天, 2025.11-2026.08): Now Master in Nanjing University
@@ -70,6 +67,7 @@ Our group currently includes four students: two Ph.D. students, four master stud
 
 # 📝 Publications
 - ``arXiv`` [Practice Makes Perfect: Evolving Requirements Interviewer Agents via Skill Accumulation](), Dongming Jin, Zhi Jin, Yaotian Yang, Linyu Li, Zheng Fang, Yuanpeng He, Jia Li, Xiaohong Chen. 
+- ``arXiv`` [CONTRA: Discovering and Qualifying Behavior-Changing Questions for Selective Clarification in LLM Code Generation](), Zheng Fang, Yongmin Li, Yichang Zhang, **Dongming Jin**, Haoyu Wang, Shuai Wang, Zhi Jin, Ge Li
 - ``arXiv`` [ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711), Zheng Fang, **Dongming Jin**, Yihong Dong, Yongmin Li, Kechi Zhang, Zhi Jin, Ge Li
 - ``arXiv`` [UserTrace: User-Level Requirements Generation and Traceability Recovery from Software Project Repositories](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Yiran Zhang, Zheng Fang, Linyu Li, Yuanpeng He, Xiaohong Chen, Weisong Sun.
 - ``arxiv`` [iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development](https://arxiv.org/abs/2507.13081), **Dongming Jin**, Weisong Sun, Jiangping Huang, Peng Liang, Jifeng Xuan, Yang Liu, Zhi Jin.  
@@ -106,6 +104,8 @@ User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang,
 - ``RE'23`` [Automating Extraction of Problem Diagrams from Natural Language Requirements Document](https://ieeexplore.ieee.org/document/10260965), **Dongming Jin**, Chunhui Wang, Zhi Jin. (<span style="color:red">CCF-B</span>)
 
 # 🎖 Honors and Awards
+- *2026.09* National Scholarship (Top 1%)
+- *2026.09* Outstanding Student,Peking University
 - *2025.12* Top 10 Highly Cited Paper, JCRD
 - *2025.09* Outstanding Scientific Research Award, Peking University
 - *2024.09* Outstanding Student,Peking University
