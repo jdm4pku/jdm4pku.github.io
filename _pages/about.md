@@ -37,7 +37,7 @@ redirect_from:
 - *2026.05*: &nbsp;🎉🎉 One paper got accepted by [ICML'26]() (<span style="color:red">CCF-A</span>)!
 - *2026.04*: &nbsp;🎉🎉 One paper got accepted by [ACL'26]() (<span style="color:red">CCF-A</span>)!
 - *2026.04*: &nbsp;🎉🎉 One paper got accepted by [TOSEM'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.01*: &nbsp;🎉🎉 Our paper got accepted by [WWW'26] () (<span style="color:red">CCF-A</span>)! 
+- *2026.01*: &nbsp;🎉🎉 Our paper got accepted by [WWW'26]() (<span style="color:red">CCF-A</span>)! 
 - *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong).
 - *2025.10*: &nbsp;🎉🎉 One paper got accepted by [ICSE 26]() (<span style="color:red">CCF-A</span>)!
 - *2025.08*: &nbsp;🎉🎉 One paper got accepted by [ASE 25]() (<span style="color:red">CCF-A</span>)!
