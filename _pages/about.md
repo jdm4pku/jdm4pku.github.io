@@ -24,29 +24,31 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [KDD'26]() (<span style="color:red">CCF-A</span>)!
 - *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded <span style="color:red">the National Scholarship (Ph.D Students).</span> This is my fourth National Scholarship.
-- *2026.09*: &nbsp;🎉🎉 Our paper "BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates" has been accepted by [NeurIPS'26]()
-- *2026.08*: &nbsp;🎉🎉 Our paper "A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs" has been accepted by [TSE'26](). 
-- *2026.07*: &nbsp;🎉🎉 Our paper "Aligning User Requirement with Large Language Model in Code Generation" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
-- *2026.07*: &nbsp;🎉🎉 Our paper "A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion" has been accepted by [IEEE TASLP'26]().
-- *2026.07*: &nbsp;🎉🎉 Our paper "When Modalities Remember: Continual Learning for Multimodal Knowledge Graphs" has been accepted by [ACM MM'26]().
-- *2026.06*: &nbsp;🎉🎉 Our paper "FallibleUser: An Imperfect User Agent for Realistic Evaluation of Interactive AI Systems" has been accepted by [ASE'26](https://conf.researchr.org/home/ase-2026). 
-- *2026.06*: &nbsp;🎉🎉 Our paper "iReDev: An Interactive Human-Agent Collaborative Platform for Requirements Development" has been accepted by [Internetware'26](https://conf.researchr.org/home/internetware-2026). 
-- *2026.05*: &nbsp;🎉🎉 Our paper "From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology" has been accepted by [RE'26](https://conf.researchr.org/home/re-2026) directly. <span style="color:red">The direct acceptance rate is only 14%.</span>
-- *2026.05*: &nbsp;🎉🎉 Our paper "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer" has been accepted by [ICML'26]() 
-- *2026.04*: &nbsp;🎉🎉 Our paper "IntentCoding: Amplifying User Intent in Code Generation" has been accepted by [ACL'26]() 
-- *2026.04*: &nbsp;🎉🎉 Our paper "AgencyTree: Automated Multimedia Workflow Generation with Robust Planning via an Abstract Capability Tree" has been accepted by [TOSEM'26]() 
-- *2026.01*: &nbsp;🎉🎉 Our paper "Learning to Evolve: Bayesian-Guided Continual Knowledge Graph Embedding" has been accepted by [WWW'26](https://www2026.thewebconf.org/) 
-- *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong) in 2024.
-- *2025.10*: &nbsp;🎉🎉 Our paper "Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion" has been accepted by [ICSE 26](https://conf.researchr.org/home/icse-2026).
-- *2025.08*: &nbsp;🎉🎉 Our paper "Envisioning Intelligent Requirements Engineering via Knowledge-Guided Multi-Agent Collaboration" has been accepted by [ASE 25](https://conf.researchr.org/home/ase-2025).
-- *2025.06*: &nbsp;🎉🎉 Our paper "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management" has been accepted by [RE 2025](https://conf.researchr.org/home/re-2025).
-- *2025.05*: &nbsp;🎉🎉 Our paper "Towards Structure-aware Model for Multi-modal Knowledge Graph Completion" has been accepted by [IEEE TMM]().
-- *2025.05*: &nbsp;🎉🎉 Our paper "Finite State Automata Inside Transformers with Chain-of-Thought" has been accpeted by [ACL 2025](https://2025.aclweb.org/).
-- *2025.03*: &nbsp;🎉🎉 Our paper "PF2UML:A Tool for Problem-Oriented Requirements Modeling and Transformation" has been accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025).
-- *2024.12*: &nbsp;🎉🎉 Our paper "A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions" has been accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025).
-- *2024.01*: &nbsp;🎉🎉 Our paper "ChatModeler: A Human-Machine Collaborative and Iterative Requirements Elicitation and Modeling Approach via Large Language Models" has been accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/).
-- *2023.07*: &nbsp;🎉🎉 Our paper "Automating Extraction of Problem Diagrams from Natural Language Requirements Document" has been accepted to [RE 2023](https://homepages.uc.edu/~niunn/EnviRE/EnviRE2023.html).
+- *2026.09*: &nbsp;🎉🎉 One paper got accepted by [NeurIPS'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.08*: &nbsp;🎉🎉 One paper got accepted by [TSE'26]()(<span style="color:red">CCF-A</span>)!
+- *2026.07*: &nbsp;🎉🎉 Two papers got accepted by [ASE'26]()
+(<span style="color:red">CCF-A</span>)!
+- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [IEEE TASLP'26]() (<span style="color:red">SCI Q1</span>)!
+- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [ACM MM'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.06*: &nbsp;🎉🎉 One paper got accepted by [Internetware'26](). 
+- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [RE'26]() (<span style="color:red">CORE-A</span>)! 
+- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [ICML'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [ACL'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [TOSEM'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.01*: &nbsp;🎉🎉 Our paper got accepted by [WWW'26] () (<span style="color:red">CCF-A</span>)! 
+- *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong).
+- *2025.10*: &nbsp;🎉🎉 One paper got accepted by [ICSE 26]() (<span style="color:red">CCF-A</span>)!
+- *2025.08*: &nbsp;🎉🎉 One paper got accepted by [ASE 25]() (<span style="color:red">CCF-A</span>)!
+- *2025.06*: &nbsp;🎉🎉 One paper got accepted by [RE 2025]() (<span style="color:red">CORE-A</span>)!
+- *2025.05*: &nbsp;🎉🎉 One paper got accepted by [IEEE TMM]() (<span style="color:red">CCF-A</span>)!
+- *2025.05*: &nbsp;🎉🎉 One paper got accpeted by [ACL 2025]() (<span style="color:red">CCF-A</span>)!
+- *2025.03*: &nbsp;🎉🎉 One paper got accepted by [FSE 2025]() (<span style="color:red">CCF-A</span>)!
+- *2024.12*: &nbsp;🎉🎉 One paper got accepted by [SANER 2025]()
+(<span style="color:red">CORE-A</span>)!
+- *2024.01*: &nbsp;🎉🎉 One paper got accepted by [JCRD]() (<span style="color:red">CCF-T1</span>)! 
+- *2023.07*: &nbsp;🎉🎉 One paper got accepted to [RE 2023]() (<span style="color:red">CORE-A</span>)!
 
 # 👥 Team
 Our group currently includes four students: two Ph.D. students, four master students, and three undergraduates. I truly enjoy collaborating with them. We are looking for students who are excited to tackle challenging problems in requirements engineering and join our team. We welcome students from around the world and support remote collaboration.
@@ -75,6 +77,8 @@ Our group currently includes four students: two Ph.D. students, four master stud
 
 
 #### 2026
+- ``KDD'26`` [The Floor Is Not the Limit: Recovering Atmospheric Backscatter from Spaceborne Lidar via Physics-Aligned Encoding](), Tianchi Xu, Yuanpeng He, Jintao Xu, Kang He, Linyu Li, Huanyao Zhang, **Dongming Jin**, Bohan Zhou, Wenpin Jiao, Zhi Jin. (<span style="color:red">CCF-A</span>)
+- ``NeurIPS'26``[BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates](), Lijian Li, Yuanpeng He, Yudian Zheng, Chung-ju Huang, Linyu Li, **Dongming Jin**, Wenpin Jiao, Zhi Jin, Chi-Man Pun. (<span style="color:red">CCF-A</span>)
 - ``TSE'26`` [A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs](https://www.arxiv.org/abs/2509.11238), **Dongming Jin**, Zhi Jin, Xiaohong Chen, Zheng Fang, Linyu Li, Yuanpeng He, Jia Li, Yiran Zhang, Yingtao Fang.  (<span style="color:red">CCF-A</span>)
 - ``ASE'26`` [Aligning User Requirement with Large Language Model in Code Generation](https://arxiv.org/pdf/2604.16198), Jia Li, Ruiqi Bai, Yangkang Luo, Yiran Zhang, Wentao Yang, Zeyu Sun, Tiankuo Zhao, **Dongming Jin**, Lei Li, Zhi Jin.  (<span style="color:red">CCF-A</span>)
 - ``IEEE TASLP'26`` [A2DA: Alignment-Distillation Synergistic Data Augmentation for Multilingual Knowledge Graph Completion](), Linyu Li, Zhi Jin, Yuanpeng He, **Dongming Jin**, Huanyu Liu, Haoran Duan, Xuan Zhang, Jin Zhang, Gadeng Luosang, Nyima Tashi. (<span style="color:red">CCF-B</span>)
