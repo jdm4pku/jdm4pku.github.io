@@ -24,6 +24,7 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [Bioinformatics'26]() (<span style="color:red">CCF-A</span>)!
 - *2026.11*: &nbsp;🎉🎉 One paper got accepted by [KDD'26]() (<span style="color:red">CCF-A</span>)!
 - *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded <span style="color:red">the National Scholarship (Ph.D Students).</span> This is my fourth National Scholarship.
 - *2026.09*: &nbsp;🎉🎉 One paper got accepted by [NeurIPS'26]() (<span style="color:red">CCF-A</span>)!
