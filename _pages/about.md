@@ -24,24 +24,24 @@ redirect_from:
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [Bioinformatics'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [KDD'26]() (<span style="color:red">CCF-A</span>)!
+- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [Bioinformatics 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.11*: &nbsp;🎉🎉 One paper got accepted by [KDD 2026]() (<span style="color:red">CCF-A</span>)!
 - *2026.10*: &nbsp;🎉🎉 Congratulation! I was awarded <span style="color:red">the National Scholarship (Ph.D Students).</span> This is my fourth National Scholarship.
-- *2026.09*: &nbsp;🎉🎉 One paper got accepted by [NeurIPS'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.08*: &nbsp;🎉🎉 One paper got accepted by [TSE'26]()(<span style="color:red">CCF-A</span>)!
-- *2026.07*: &nbsp;🎉🎉 Two papers got accepted by [ASE'26]()
+- *2026.09*: &nbsp;🎉🎉 One paper got accepted by [NeurIPS 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.08*: &nbsp;🎉🎉 One paper got accepted by [TSE 2026]()(<span style="color:red">CCF-A</span>)!
+- *2026.07*: &nbsp;🎉🎉 Two papers got accepted by [ASE 2026]()
 (<span style="color:red">CCF-A</span>)!
-- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [IEEE TASLP'26]() (<span style="color:red">SCI Q1</span>)!
-- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [ACM MM'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.06*: &nbsp;🎉🎉 One paper got accepted by [Internetware'26](). 
-- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [RE'26]() (<span style="color:red">CORE-A</span>)! 
-- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [ICML'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [ACL'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [TOSEM'26]() (<span style="color:red">CCF-A</span>)!
-- *2026.01*: &nbsp;🎉🎉 Our paper got accepted by [WWW'26]() (<span style="color:red">CCF-A</span>)! 
+- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [IEEE TASLP 2026]() (<span style="color:red">SCI Q1</span>)!
+- *2026.07*: &nbsp;🎉🎉 One paper got accepted by [ACM MM 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.06*: &nbsp;🎉🎉 One paper got accepted by [Internetware 2026](). 
+- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [RE 2026]() (<span style="color:red">CORE-A</span>)! 
+- *2026.05*: &nbsp;🎉🎉 One paper got accepted by [ICML 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [ACL 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.04*: &nbsp;🎉🎉 One paper got accepted by [TOSEM 2026]() (<span style="color:red">CCF-A</span>)!
+- *2026.01*: &nbsp;🎉🎉 Our paper got accepted by [WWW 2026]() (<span style="color:red">CCF-A</span>)! 
 - *2025.12*: &nbsp;🎉🎉 Our paper "ChatModeler" has been recognized as a [Highly Cited Paper](https://mp.weixin.qq.com/s/FDQ1t5GacYanBhMgHaWong).
-- *2025.10*: &nbsp;🎉🎉 One paper got accepted by [ICSE 26]() (<span style="color:red">CCF-A</span>)!
-- *2025.08*: &nbsp;🎉🎉 One paper got accepted by [ASE 25]() (<span style="color:red">CCF-A</span>)!
+- *2025.10*: &nbsp;🎉🎉 One paper got accepted by [ICSE 2026]() (<span style="color:red">CCF-A</span>)!
+- *2025.08*: &nbsp;🎉🎉 One paper got accepted by [ASE 2026]() (<span style="color:red">CCF-A</span>)!
 - *2025.06*: &nbsp;🎉🎉 One paper got accepted by [RE 2025]() (<span style="color:red">CORE-A</span>)!
 - *2025.05*: &nbsp;🎉🎉 One paper got accepted by [IEEE TMM]() (<span style="color:red">CCF-A</span>)!
 - *2025.05*: &nbsp;🎉🎉 One paper got accpeted by [ACL 2025]() (<span style="color:red">CCF-A</span>)!
