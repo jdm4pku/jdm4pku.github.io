@@ -136,6 +136,5 @@ User Agent for Realistic Evaluation of Interactive AI Systems](),  Yaotian Yang,
 - *2023.10 - 2025.09*, ZGCLab, Beijing
 
 # 🌟 Academic Service
-* PC Member: QRS 2024
-* PC Member: APSEC 2025
-* PC Member: APSEC 2026
+* Reviewer: ICLR 2027, WWW 2027
+* PC Member: QRS 2024, APSEC 2025, APSEC 2026
